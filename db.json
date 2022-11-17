@@ -1,0 +1,1880 @@
+{
+  "category": [
+
+    {
+        "name": "general",
+        "status": "ok",
+        "totalResults": 38,
+        "articles": [
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Times"
+                },
+                "author": "Adam Satariano",
+                "title": "Apple’s App Store Draws E.U. Antitrust Charge - The New York Times",
+                "description": "By forcing app developers to use its payment system and comply with other rules, regulators said Apple broke European Union competition laws.",
+                "url": "https://www.nytimes.com/2021/04/30/technology/apple-antitrust-eu-app-store.html",
+                "urlToImage": "https://static01.nyt.com/images/2021/04/29/business/00apple-antitrust-promo/00apple-antitrust-promo-facebookJumbo.jpg",
+                "publishedAt": "2021-04-30T14:26:05Z",
+                "content": "This week, Apple flexed its power by introducing a software update that gave customers more power to block data tracking by apps, a change that has started a feud with Facebook, which has criticized … [+2211 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "WMTW Portland"
+                },
+                "author": null,
+                "title": "Maine CDC reports 2 new COVID-19 deaths, 268 additional cases - WMTW Portland",
+                "description": "The Maine Center for Disease Control and Prevention is reporting 268 additional COVID-19 cases on Friday and two new deaths.",
+                "url": "https://www.wmtw.com/article/maine-cdc-reports-2-new-covid-19-deaths-268-additional-cases/36298212",
+                "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/me-coronavirus-1585315390.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+                "publishedAt": "2021-04-30T14:22:00Z",
+                "content": "AUGUSTA, Maine —The Maine Center for Disease Control and Prevention is reporting 268 additional COVID-19 cases on Friday and two new deaths.\r\nThe number of Mainers who have died with COVID-19 is now … [+4252 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Ryan Gaydos",
+                "title": "Kentucky Derby favorite overshadowed by sheikh's controversy - Fox News",
+                "description": "Essential Quality will enter Churchill Downs on Saturday night as the favorite to win the Kentucky Derby, but there is a cloud of mystery and intrigue over the horse’s owner.",
+                "url": "https://www.foxnews.com/sports/kentucky-derby-favorite-sheikh",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Sheikh-Mohammed.jpg",
+                "publishedAt": "2021-04-30T14:05:57Z",
+                "content": "Essential Quality will enter Churchill Downs on Saturday night as the favorite to win the Kentucky Derby, but there is a cloud of mystery and intrigue over the horses owner.\r\nSheikh Mohammed bin Rash… [+2971 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NPR"
+                },
+                "author": "",
+                "title": "Dozens Crushed To Death, Scores Injured In Stampede At Israeli Religious Festival - NPR",
+                "description": "At least 45 people were killed and some 150 injured in a crush at the gathering of ultra-Orthodox Jews in northern Israel, where tens of thousands had convened.",
+                "url": "https://www.npr.org/2021/04/30/992320694/dozens-crushed-to-death-scores-injured-in-stampede-at-israeli-religious-festival",
+                "urlToImage": "https://media.npr.org/assets/img/2021/04/30/ap_21120200954155_wide-c4baae93912df7f1217f959f9708c31fe5d41f87.jpg?s=1400",
+                "publishedAt": "2021-04-30T13:18:15Z",
+                "content": "Ultra-Orthodox Jews look at the scene where dozens of people were killed and some 150 injured in a stampede during the Lag BaOmer festival at Mount Meron in northern Israel on Friday.\r\nSebastian Sche… [+4135 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Tom Grater",
+                "title": "Noel Clarke’s ‘Bulletproof’ Co-Star Ashley Walters & Michaela Coel Comment On Misconduct Allegations; More Reactions - Deadline",
+                "description": "I May Destroy You creator and star Michaela Coel has published a statement in response to last night’s bombshell Guardian investigation in which more than 20 women made allegations of misconduct against UK actor and producer Noel Clarke. Coel had retweeted th…",
+                "url": "https://deadline.com/2021/04/michaela-coel-noel-clarke-misconduct-allegations-they-are-far-from-grey-1234747384/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2021/04/New-Project-3-1.jpg?w=1024",
+                "publishedAt": "2021-04-30T13:01:00Z",
+                "content": "I May Destroy You creator and star Michaela Coel has published a statement in response to last night’s bombshell Guardian investigation in which more than 20 women made allegations of misconduct agai… [+3577 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Hollywood Reporter"
+                },
+                "author": "Mikey O'Connell",
+                "title": "Guy Fieri, Fired Up: The Food Network King, With a Massive New Deal, Pushes for More Restaurant Relief - Hollywood Reporter",
+                "description": "Once mocked by white-tablecloth elites, Fieri just signed a landmark pact for a TV chef as he steps into a respected elder statesman role in the food world — raising millions for workers unemployed due to COVID-19: \"I was pissed.\"",
+                "url": "https://www.hollywoodreporter.com/features/guy-fieri-the-food-network-restaurant-industry-covid-19-tv-deal",
+                "urlToImage": "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/Guy_Fieri_David_Needleman_C_112_H_2021-1619561864-1024x577.jpg",
+                "publishedAt": "2021-04-30T13:00:34Z",
+                "content": "Guy Fieri's 1968 Camaro is conspicuously absent from the lineup of vintage wheels abutting his Windsor, California, ranch in Sonoma Valley wine country.\r\nThe cherry-red convertible seen in 400-plus e… [+13398 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Chaim Gartenberg",
+                "title": "The colorful M1 iMac, Mini LED iPad Pro, and refreshed Apple TV 4K are available to preorder now - The Verge",
+                "description": "Preorders have opened for Apple’s new M1 iMac, refreshed Mini LED iPad Pro, and updated Apple TV 4Kk (which also adds a new remote,) ahead of a May 21st release date.",
+                "url": "https://www.theverge.com/2021/4/30/22409463/apple-m1-imac-ipad-pro-apple-tv-4k-preorders-price-release-date",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/P-maDbSbkhcotpLaDjKCSn_bsS8=/0x42:2144x1165/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22457439/apple_new_imac_spring21_hero_04202021_Full_Bleed_Image.jpg.medium_2x.jpg",
+                "publishedAt": "2021-04-30T12:30:08Z",
+                "content": "Ahead of a May 21st release date\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nImage: Apple\r\nApples colorful new M1-powered iMacs, refreshed iPa… [+2333 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Windy City Gridiron"
+                },
+                "author": "Lester A. Wiltfong Jr.",
+                "title": "Bears 2021 Draft: Justin Fields thinks he a perfect fit for Chicago - Windy City Gridiron",
+                "description": "Brand new Chicago Bears quarterback Justin Fields met the media for the first time as  professional on Thursday night, and he displayed the confidence one would expect from a first round QB. Even...",
+                "url": "https://www.windycitygridiron.com/2021/4/30/22411396/chicago-bears-2021-draft-justin-fields-thinks-he-a-perfect-fit-matt-nagy-ohio-state-nfl",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/mftiUR5w7qdklISxrYpyfL_sykI=/0x115:1618x962/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480614/1230557053.jpg",
+                "publishedAt": "2021-04-30T12:30:00Z",
+                "content": "Brand new Chicago Bears quarterback Justin Fields met the media for the first time as professional on Thursday night, and he displayed the confidence one would expect from a first round QB. Even thou… [+2748 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Pats Pulpit"
+                },
+                "author": "Bernd Buchmasser",
+                "title": "The story behind Patriots QB Mac Jones’ legal name McCorkle - Pats Pulpit",
+                "description": "Yes, Mac is not his real name.",
+                "url": "https://www.patspulpit.com/new-england-patriots-social-media-video-podcasts/2021/4/30/22411670/nfl-draft-patriots-quarterback-mac-jones-legal-name-mccorkle",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/sWqzaNFzs8kZm68e6LUKJbLRTJM=/0x83:1817x1034/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480835/1232598618.jpg",
+                "publishedAt": "2021-04-30T12:30:00Z",
+                "content": "When the New England Patriots and their first-round pick in the 2021 NFL Draft will set up a contract later this spring, it will not say Mac Jones at the top. Instead, it will say Michael McCorkle Jo… [+1174 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Associated Press",
+                "title": "Pfizer-BioNTech seek COVID-19 vaccine authorization for kids in EU - Fox News",
+                "description": "Pfizer Inc. and BioNTech have submitted a request to the European drug regulator for the approval of their coronavirus vaccine to be extended to include children 12 to 15 years old, in a move that could offer younger and less at-risk populations in Europe acc…",
+                "url": "https://www.foxnews.com/health/pfizer-biontech-seek-covid-19-vaccine-ok-kids-eu",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/covid_vaccinations.jpg",
+                "publishedAt": "2021-04-30T12:29:13Z",
+                "content": "LONDON Pfizer Inc. and BioNTech have submitted a request to the European drug regulator for the approval of their coronavirusvaccine to be extended to include children 12 to 15 years old, in a move t… [+1205 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CBS Sports"
+                },
+                "author": "",
+                "title": "2021 NFL Draft grades, picks: Live tracker, analysis for every selection in Round 1 - CBS Sports",
+                "description": "Pete Prisco grades the first 32 picks of the 2021 NFL Draft",
+                "url": "https://www.cbssports.com/nfl/draft/news/2021-nfl-draft-grades-picks-live-tracker-analysis-for-every-selection-in-round-1/",
+                "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/01/02/8d740786-0c23-4d1f-9dee-bfc6c268c458/thumbnail/1200x675/8d3d00870e90fc2cc928111658ebb01d/trevor-lawrence-clemson.jpg",
+                "publishedAt": "2021-04-30T12:24:00Z",
+                "content": "Want to know what I think of every pick made Thursday in the first round of the 2021 NFL Draft? You can find it all below. You can also follow along throughout the rest of the draft on Days 2 and 3 f… [+5677 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Dan Ackerman",
+                "title": "Atari VCS hands-on: A computer-console hybrid with an identity crisis - CNET",
+                "description": "The long-awaited Atari VCS doesn't know if it wants to be a game console, a PC or something in between.",
+                "url": "https://www.cnet.com/news/atari-vcs-hands-on-a-computer-console-hybrid-with-an-identity-crisis/",
+                "urlToImage": "https://www.cnet.com/a/img/EjuWa0I3jeSKUjacIqBuB3W9-l4=/1200x630/2021/04/29/aa625048-a66b-42aa-9f5d-68cdcdd23844/img-3467.jpg",
+                "publishedAt": "2021-04-30T12:00:21Z",
+                "content": "Dan Ackerman/CNET\r\nLike the storied brand it takes its name from, the new Atari VCS has a complicated history. Originally a crowd-funded project, now years overdue, it's finally starting to ship to c… [+6865 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Josh Duggar Arrested in Arkansas, Sister Jill Reacts: 'It's Very Sad' (Exclusive) - Entertainment Tonight",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OFgyeEo0Q0thUWvSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T12:00:03Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Pippa Stevens",
+                "title": "Exxon posts a profit, snapping four-quarter loss streak - CNBC",
+                "description": "Exxon posted a profit during the first quarter as oil prices recover.",
+                "url": "https://www.cnbc.com/2021/04/30/exxon-xom-earnings-q1-2021.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106747576-16028483762020-10-15t214007z_1517412186_rc29jj9qlkfr_rtrmadp_0_usa-election-oil-donors.jpeg?v=1602848416",
+                "publishedAt": "2021-04-30T11:58:09Z",
+                "content": "Exxon Mobil returned to profitability during the first quarter, beating top- and bottom-line estimates for the period, as the company recovers from the havoc wreaked on the energy sector by the coron… [+3737 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Paul LeBlanc, CNN",
+                "title": "The Daily Beast: Gaetz associate wrote in letter that congressman paid for sex with minor - CNN ",
+                "description": "Joel Greenberg, a central figure in the ongoing investigation into Florida Republican Rep. Matt Gaetz, wrote in a letter obtained by The Daily Beast that he and Gaetz paid for sex with multiple women, including a minor who was 17 at the time.",
+                "url": "https://www.cnn.com/2021/04/30/politics/matt-gaetz-joel-greenberg-letter/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210423163611-matt-gaetz-probe-public-corruption-medical-marijuana-reid-lead-vpx-00000712-super-tease.jpg",
+                "publishedAt": "2021-04-30T11:49:00Z",
+                "content": "Washington (CNN)Joel Greenberg, a central figure in the ongoing investigation into Florida Republican Rep. Matt Gaetz, wrote in a letter obtained by The Daily Beast that he and Gaetz paid for sex wit… [+3555 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "By Lianne Kolirin, CNN",
+                "title": "First pregnant Egyptian mummy surprises researchers - CNN ",
+                "description": "Polish researchers examining an Egyptian mummy previously believed to be a male priest discover it was actually a woman after spotting the tiny foot of a 26-30 week old fetus in her abdomen.",
+                "url": "https://www.cnn.com/travel/article/pregnant-mummy-revealed-scli-intl-scn/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210430104921-06-pregnant-egyptian-mummy-super-tease.jpg",
+                "publishedAt": "2021-04-30T11:39:06Z",
+                "content": "(CNN) An Egyptian mummy previously believed to be a priest has turned out to be a pregnant woman. \r\nThe surprise discovery, the first of its kind anywhere in the world, was made by Polish scientists … [+3837 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "BBC News"
+                },
+                "author": "https://www.facebook.com/bbcnews",
+                "title": "Eurozone suffers double-dip recession as pandemic impact continues - BBC News",
+                "description": "Activity in the bloc has been hit by a renewed surge in infections this year and Covid-related restrictions.",
+                "url": "https://www.bbc.com/news/business-56940720",
+                "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13957/production/_112151208_mediaitem112151206.jpg",
+                "publishedAt": "2021-04-30T11:32:04Z",
+                "content": "By Andrew WalkerBBC World Service economics correspondent\r\nThe eurozone's economy has fallen back into recession as the impact of the pandemic continues to hit activity. \r\nEurope's economies have bee… [+2312 chars]"
+            },
+            {
+                "source": {
+                    "id": "axios",
+                    "name": "Axios"
+                },
+                "author": "Sam Baker",
+                "title": "The next 100 million coronavirus vaccinations in the U.S. - Axios",
+                "description": "Administering COVID-19 vaccines will only get harder from here — both domestically and globally.",
+                "url": "https://www.axios.com/covid-vaccines-hundred-milliion-a6d33ff2-0a45-4e98-8650-485500a6d7f4.html",
+                "urlToImage": "https://images.axios.com/Dz35bu0eciRi8nZEpbXrb-H5kys=/0x0:1920x1080/1366x768/2021/04/30/1619780648770.jpg",
+                "publishedAt": "2021-04-30T11:15:01Z",
+                "content": "100 million Americans are now fully vaccinated against COVID-19, according to the CDC's tracker. \r\nWhy it matters: That's 38% of the country's adult population and 55% of the adult population has had… [+1131 chars]"
+            },
+            {
+                "source": {
+                    "id": "cbs-news",
+                    "name": "CBS News"
+                },
+                "author": "Adam Brewster",
+                "title": "Florida passes election bill that would make changes to mail voting - CBS News",
+                "description": "The bill would add voter ID requirements to mail voting and add limitations to the use of drop boxes.",
+                "url": "https://www.cbsnews.com/news/florida-passes-election-bill-that-would-make-changes-to-mail-voting/",
+                "urlToImage": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/04/30/e5d27bb8-ef5a-46bf-a3a9-03ed65338c49/thumbnail/1200x630/0229307d1374b8f84c5f9cc54cd9ef95/gettyimages-1229446498.jpg",
+                "publishedAt": "2021-04-30T11:12:00Z",
+                "content": "The Florida Legislature passed a sweeping election bill Thursday night that would make significant changes to mail voting in the state after a record number of Floridians voted by mail in the 2020 el… [+5140 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "9to5Mac"
+                },
+                "author": null,
+                "title": "Apple reveals more about AirTag stalking protections as domestic abuse concerns expressed - 9to5Mac",
+                "description": "Apple was careful to address AirTag stalking concerns when it announced the new tracking tags, but was a little vague on the details of ...",
+                "url": "https://9to5mac.com/2021/04/30/airtag-stalking-protections/",
+                "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/AirTag-stalking-protections.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "publishedAt": "2021-04-30T11:07:00Z",
+                "content": "Apple was careful to address AirTag stalking concerns when it announced the new tracking tags, but was a little vague on the details of the privacy protections built into the system. It has now revea… [+3474 chars]"
+            }
+        ]
+    },
+
+    {
+        "name": "business",
+        "status": "ok",
+        "totalResults": 70,
+        "articles": [
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Travis Caldwell, CNN",
+                "title": "The US is taking a major step toward resuming normal life - CNN ",
+                "description": "As May arrives, the US is taking a major step toward resuming normal life, with cities, businesses and entertainment venues announcing plans to begin reopening after the deadly winter surge of Covid-19 infections.",
+                "url": "https://www.cnn.com/2021/04/30/health/us-coronavirus-friday/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210430023340-new-york-city-0413-restricted-super-tease.jpg",
+                "publishedAt": "2021-04-30T14:27:00Z",
+                "content": "(CNN)As May arrives, the US is taking a major step toward resuming normal life, with cities, businesses and entertainment venues announcing plans to begin reopening after the deadly winter surge of C… [+6580 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Times"
+                },
+                "author": "Adam Satariano",
+                "title": "Apple’s App Store Draws E.U. Antitrust Charge - The New York Times",
+                "description": "By forcing app developers to use its payment system and comply with other rules, regulators said Apple broke European Union competition laws.",
+                "url": "https://www.nytimes.com/2021/04/30/technology/apple-antitrust-eu-app-store.html",
+                "urlToImage": "https://static01.nyt.com/images/2021/04/29/business/00apple-antitrust-promo/00apple-antitrust-promo-facebookJumbo.jpg",
+                "publishedAt": "2021-04-30T14:26:05Z",
+                "content": "This week, Apple flexed its power by introducing a software update that gave customers more power to block data tracking by apps, a change that has started a feud with Facebook, which has criticized … [+2211 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Investor's Business Daily"
+                },
+                "author": "Investor's Business Daily",
+                "title": "Stocks Open Lower Amid Earnings, April Profit Taking; Amazon Powers Up; Dow Jones Stock Apple Hit By EU Antitrust Charge - Investor's Business Daily",
+                "description": "Amazon climbed on earnings, while Dow Jones stock Apple dropped on EU antitrust charges, as stocks opened sharply lower Friday.",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-stocks-futures-slump-amid-earnings-april-profit-taking-amazon-powers-up-apple-hit-by-eu-antitrust-charge/",
+                "urlToImage": "https://www.investors.com/wp-content/uploads/2016/08/stock-bull-10-adobe.jpg",
+                "publishedAt": "2021-04-30T14:15:00Z",
+                "content": "Stocks fell into the final trading session of April on Friday, despite some strong economic data. Earnings news drove a large share of the morning's action amid month-end profit taking and continued … [+7638 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "Yahoo Finance Video",
+                "title": "What to make of Twitter’s Q1 earnings report - Yahoo Finance",
+                "description": "Yahoo Finance’s Brian Sozzi, Julie Hyman, and Myles Udland break down break down Twitter’s latest earnings results and how the stock is faring.",
+                "url": "https://finance.yahoo.com/video/twitter-q1-earnings-report-134535156.html",
+                "urlToImage": "https://s.yimg.com/ny/api/res/1.2/y8gMLNkmO6BpDV6W5YkZbg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIwMDA7aD0xMTIz/https://s.yimg.com/hd/cp-video-transcode/prod/2021-04/30/608c0a065aec9a4527e617e3/608c0a065aec9a4527e617e4_o_U_v2.jpg",
+                "publishedAt": "2021-04-30T13:45:35Z",
+                "content": "(Bloomberg) -- A year after Warren Buffett revealed he was unloading airline stocks as the pandemic took hold, Berkshire Hathaway Inc. shareholders are eager for his sense of whats next for the congl… [+8470 chars]"
+            },
+            {
+                "source": {
+                    "id": "nbc-news",
+                    "name": "NBC News"
+                },
+                "author": "Elisha Fieldstadt",
+                "title": "North Carolina woman who allegedly left 5-month-old in car for hours is charged with manslaughter - NBC News",
+                "description": "A 26-year-old North Carolina mom was charged with involuntary manslaughter after her 5-month-old baby, who she allegedly left in a car for hours, died.",
+                "url": "https://www.nbcnews.com/news/us-news/north-carolina-woman-who-allegedly-left-5-month-old-car-n1265936",
+                "urlToImage": "https://media4.s-nbcnews.com/j/newscms/2019_01/2705191/nbc-social-default_b6fa4fef0d31ca7e8bc7ff6d117ca9f4.nbcnews-fp-1200-630.png",
+                "publishedAt": "2021-04-30T13:34:48Z",
+                "content": "A 26-year-old North Carolina mom was charged Thursday with involuntary manslaughter after her 5-month-old, who she allegedly left in a car for hours, died.\r\nPolice were called to a home in Statesvill… [+781 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Chris Welch",
+                "title": "Roku removes YouTube TV from channel store as dispute with Google escalates - The Verge",
+                "description": "Roku has pulled YouTube TV from its channel store as of Friday after the distribution agreement with Google expired. Existing customers can keep using the service but should avoid deleting the app, as it can’t be redownloaded.",
+                "url": "https://www.theverge.com/2021/4/30/22411711/roku-removes-youtube-tv-channel-store",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/zL66F9eGHsbChMm0hf1hXzqXRz0=/0x4:2040x1072/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22476647/cwelch_20210428_4565_0003.jpg",
+                "publishedAt": "2021-04-30T13:00:30Z",
+                "content": "If youve already got the app, be careful not to delete it\r\nPhoto by Chris Welch / The Verge\r\nRoku has pulled YouTube TV from its channel store. The distribution agreement between Roku and Google for … [+2544 chars]"
+            },
+            {
+                "source": {
+                    "id": "associated-press",
+                    "name": "Associated Press"
+                },
+                "author": "David Mchugh",
+                "title": "Europe's economy shrinks in first quarter as US rolls ahead - The Associated Press",
+                "description": "FRANKFURT, Germany (AP) — Europe's economy shrank 0.6% in the first three months of the year as slow vaccine rollouts and extended lockdowns delayed a hoped-for recovery - and underlined how the region is lagging other major economies in rebounding from the c…",
+                "url": "https://apnews.com/article/europe-economy-health-business-b1c5d1ee5702078e185f0003abbfd9a7",
+                "urlToImage": "https://storage.googleapis.com/afs-prod/media/f3c60ff7baff4c64a591924eb915903a/3000.jpeg",
+                "publishedAt": "2021-04-30T12:59:32Z",
+                "content": "FRANKFURT, Germany (AP) Europes economy shrank 0.6% in the first three months of the year as slow vaccine rollouts and extended lockdowns delayed a hoped-for recovery - and underlined how the region … [+4226 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Kevin Stankiewicz",
+                "title": "Leon Cooperman sees stock market lower a year from now due to tax, rate, inflation pressures - CNBC",
+                "description": "\"I suspect the market will be lower a year from today,\" Leon Cooperman told CNBC on Friday, one day after the S&P 500 notched a record close.",
+                "url": "https://www.cnbc.com/2021/04/30/leon-cooperman-sees-the-stock-market-lower-a-year-from-now-due-to-tax-rates-inflation-pressures.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106141529-1569006689973img_9370.jpg?v=1569006921",
+                "publishedAt": "2021-04-30T12:50:53Z",
+                "content": "Billionaire investor Leon Cooperman told CNBC on Friday he expects the stock market will be lower than current levels one year from now.\r\nCooperman's comments came one day after the S&amp;P 500 notch… [+2471 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-wall-street-journal",
+                    "name": "The Wall Street Journal"
+                },
+                "author": "Sarah Chaney Cambon",
+                "title": "U.S. Household Income Surged by Record 21.1% in March - The Wall Street Journal",
+                "description": "Higher income, spending and saving are expected to help power a fast economic recovery",
+                "url": "https://www.wsj.com/articles/consumer-spending-personal-income-march-2021-11619732790",
+                "urlToImage": "https://images.wsj.net/im-331871/social",
+                "publishedAt": "2021-04-30T12:50:00Z",
+                "content": "Household income rose at a record pace of 21.1% in March as federal-stimulus checks helped fuel an economic revival that is poised to endure with an easing pandemic.\r\nThe 21.1% March surge in income … [+999 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Christopher DiLella",
+                "title": "A major chlorine shortage is set to spoil summertime fun in the swimming pool - CNBC",
+                "description": "The worst chlorine shortage the country has ever seen is set to rock this summer's pool season.",
+                "url": "https://www.cnbc.com/2021/04/30/a-major-chlorine-shortage-is-set-to-spoil-swimming-pool-fun-this-summer.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106871834-1619028446240-gettyimages-717170367-jubf00216.jpeg?v=1619028637",
+                "publishedAt": "2021-04-30T12:37:11Z",
+                "content": "The worst chlorine shortage the country has ever seen is set to rock this summer's pool season.\r\n\"It's been a concern for us,\" said Cody Saliture, owner of Texas Pool Professionals, which has been in… [+7653 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Associated Press",
+                "title": "Pfizer-BioNTech seek COVID-19 vaccine authorization for kids in EU - Fox News",
+                "description": "Pfizer Inc. and BioNTech have submitted a request to the European drug regulator for the approval of their coronavirus vaccine to be extended to include children 12 to 15 years old, in a move that could offer younger and less at-risk populations in Europe acc…",
+                "url": "https://www.foxnews.com/health/pfizer-biontech-seek-covid-19-vaccine-ok-kids-eu",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/covid_vaccinations.jpg",
+                "publishedAt": "2021-04-30T12:29:13Z",
+                "content": "LONDON Pfizer Inc. and BioNTech have submitted a request to the European drug regulator for the approval of their coronavirusvaccine to be extended to include children 12 to 15 years old, in a move t… [+1205 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Post"
+                },
+                "author": "Will Feuer",
+                "title": "Amazon crushes earnings as Jeff Bezos prepares to leave - New York Post ",
+                "description": "Amazon reported sales of $108.5 billion, up 44 percent from a year prior, and a staggering $8.1 billion profit.",
+                "url": "https://nypost.com/2021/04/30/amazon-crushes-earnings-as-jeff-bezos-prepares-to-leave/",
+                "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/04/amazon-89.jpg?quality=90&strip=all&w=1200",
+                "publishedAt": "2021-04-30T12:12:00Z",
+                "content": "Amazon shares rose after the e-commerce giant reported a record quarterly profit as pandemic-fueled demand for online shopping lifted its first-quarter earnings, helped by growth in its cloud computi… [+1752 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Fox Business"
+                },
+                "author": "Liz Alterman",
+                "title": "Considering a mortgage refinance? 2021 may be the time to get one - Fox Business",
+                "description": "With mortgage interest rates on the rise, if you’re ready to refinance, why wait?",
+                "url": "https://www.foxbusiness.com/money/mortgage-refinance-why-2021-time-to-get-one",
+                "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2021/03/0/0/Credible-mortgage-refinance-iStock-thumbnail-508545940.jpg?ve=1&tl=1",
+                "publishedAt": "2021-04-30T12:08:56Z",
+                "content": "The ongoing pandemic has had a significant impact on mortgage and mortgage refinance rates, which sunk to historic lows after beginning their decline in March 2020 at the onset of the coronavirus. In… [+3997 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "The Block Crypto"
+                },
+                "author": null,
+                "title": "Coinbase set to acquire data and analytics platform Skew for undisclosed sum - The Block Crypto",
+                "description": "It's the first deal announced after Coinbase became a public company.",
+                "url": "https://www.theblockcrypto.com/linked/103404/coinbase-set-to-acquire-data-and-analytics-platform-skew-for-undisclosed-sum",
+                "urlToImage": "https://www.tbstat.com/wp/uploads/2021/02/20210225_Coinbase_Gen_1.jpg",
+                "publishedAt": "2021-04-30T12:01:00Z",
+                "content": "Crypto exchange Coinbase announced Friday that it will acquire data and analytics provider Skew for an undisclosed sum, its first acquisition deal following its blockbuster direct listing earlier thi… [+1813 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Seeking Alpha"
+                },
+                "author": null,
+                "title": "Nio stock trades lower after EV maker warns on supply chain issues - Seeking Alpha",
+                "description": "Nio (NIO) is lower in early trading after the Chinese electric vehicle maker warned on supply chain issues. Read more about Nio's earnings report.",
+                "url": "https://seekingalpha.com/news/3688596-nio-stock-trades-lower-after-ev-maker-warns-on-supply-chain-issues",
+                "urlToImage": "https://static3.seekingalpha.com/assets/og_image_192-59bfd51c9fe6af025b2f9f96c807e46f8e2f06c5ae787b15bf1423e6c676d4db.png",
+                "publishedAt": "2021-04-30T12:01:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "By Maureen O'Hare, CNN",
+                "title": "Midleton Very Rare: What a $45,000 Irish whiskey tastes like - CNN ",
+                "description": "Ireland's Midleton Very Rare whiskey distillery has just launched the second batch in its Silent Distillery Collection, a 46-year-old single pot still whiskey with a price tag of $45,000. CNN Travel had a taste",
+                "url": "https://www.cnn.com/travel/article/midleton-very-rare-irish-whiskey-chapter-two/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200219154457-most-expensive-irish-whiskey---midleton-very-rare-bottle-image-super-tease.jpg",
+                "publishedAt": "2021-04-30T12:00:50Z",
+                "content": "London (CNN) The second batch of Ireland's oldest ever whiskey collection will be released this May -- and a single bottle costs $45,000. \r\nPresented in a hand blown Waterford Crystal decanter and di… [+4553 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Before you reserve a Tesla Cybertruck or Hummer EV, watch this - CNET",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9SHJGbXQ1b3pJLU3SAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T12:00:06Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Pippa Stevens",
+                "title": "Exxon posts a profit, snapping four-quarter loss streak - CNBC",
+                "description": "Exxon posted a profit during the first quarter as oil prices recover.",
+                "url": "https://www.cnbc.com/2021/04/30/exxon-xom-earnings-q1-2021.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106747576-16028483762020-10-15t214007z_1517412186_rc29jj9qlkfr_rtrmadp_0_usa-election-oil-donors.jpeg?v=1602848416",
+                "publishedAt": "2021-04-30T11:58:09Z",
+                "content": "Exxon Mobil returned to profitability during the first quarter, beating top- and bottom-line estimates for the period, as the company recovers from the havoc wreaked on the energy sector by the coron… [+3737 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Anmar Frangoul",
+                "title": "Wind energy could generate 3.3 million jobs in the next five years, industry body claims - CNBC",
+                "description": "Several countries want to make wind energy a crucial tool in their pivot away from fossil fuels.",
+                "url": "https://www.cnbc.com/2021/04/30/wind-energy-could-generate-3point3-million-jobs-in-next-five-years-gwec.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106876517-1619786176142-gettyimages-1297501585-img_20190903_121020_01.jpeg?v=1619786228",
+                "publishedAt": "2021-04-30T11:46:18Z",
+                "content": "The expansion of the wind energy industry could create 3.3 million jobs in the next five years, according to analysis from industry body the Global Wind Energy Council.\r\nThe projection includes direc… [+2232 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "PR Newswire",
+                "title": "AbbVie Reports First-Quarter 2021 Financial Results - Yahoo Finance",
+                "description": "AbbVie (NYSE:ABBV) announced financial results for the first quarter ended March 31, 2021.",
+                "url": "https://finance.yahoo.com/news/abbvie-reports-first-quarter-2021-114200028.html",
+                "urlToImage": "https://s.yimg.com/uu/api/res/1.2/s0ntgNgn..D2rv6YX27WlQ--~B/aD0xNjt3PTE2O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/prnewswire.com/b7e36a7cea56d598d03d4f41f3ced85b",
+                "publishedAt": "2021-04-30T11:42:00Z",
+                "content": "- Reports First-Quarter Diluted EPS of $1.99 on a GAAP Basis; Adjusted Diluted EPS of $2.95\r\n- Delivers First-Quarter Net Revenues of $13.010 Billion on a GAAP Basis, an Increase of 51.0 Percent on a… [+40687 chars]"
+            }
+        ]
+    },
+
+    {
+        "name": "entertainment",
+        "status": "ok",
+        "totalResults": 70,
+        "articles": [
+            {
+                "source": {
+                    "id": null,
+                    "name": "Rolling Stone"
+                },
+                "author": "Kory Grow",
+                "title": "Marilyn Manson Sued for Sexual Assault, Sex Trafficking by ‘Game of Thrones’ Actress Esmé Bianco - Rolling Stone",
+                "description": "Manson’s former manager Tony Ciulla and his management company also accused of trafficking",
+                "url": "https://www.rollingstone.com/music/music-news/marilyn-manson-sued-esme-bianco-1163230/",
+                "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2021/04/marilyn-manson-sued.jpg",
+                "publishedAt": "2021-04-30T15:40:43Z",
+                "content": "Game of Thrones actress Esmé Bianco has sued Marilyn Manson and his former manager, Tony Ciulla, alleging that the singer raped and sexually battered her. The complaint, filed Friday in the United St… [+9552 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Eonline.com"
+                },
+                "author": "Elyse Dupre",
+                "title": "Kim Kardashian Looks Almost Unrecognizable With Blonde Hair and Bleached Eyebrows - E! NEWS",
+                "description": "Can you keep up with all of Kim Kardashian's looks? Scroll on to see the changes the reality TV star made to her hair and eyebrows.",
+                "url": "https://www.eonline.com/news/1264594/kim-kardashian-looks-almost-unrecognizable-with-blonde-hair-and-bleached-eyebrows",
+                "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2021322/rs_1200x1200-210422163545-1200-Kim-Kardashian-mp.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+                "publishedAt": "2021-04-30T15:11:00Z",
+                "content": "Kim Kardashian, is that you?\r\nThe Keeping Up With the Kardashians star was almost unrecognizable after she debuted her latest look on Instagram Thursday, April 29 \r\nKim teased the style switch-up by … [+731 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "TMZ"
+                },
+                "author": "TMZ Staff",
+                "title": "Jay-Z Closes Deal to Sell Tidal for $350 Million to Jack Dorsey's Square - TMZ",
+                "description": "Jay-Z's 6-year flip of Tidal's streaming service is complete -- he just closed the deal to sell the majority of the company to Square for $350 million ... a pretty good return on his initial investment.",
+                "url": "https://www.tmz.com/2021/04/30/jay-z-sells-tidal-deal-closed-square-jack-dorsey-350-million-dollars/",
+                "urlToImage": "https://imagez.tmz.com/image/8d/16by9/2021/04/30/8dbe539a77ef48b8a436f2ad4e4a733f_xl.jpg",
+                "publishedAt": "2021-04-30T15:07:00Z",
+                "content": "Jay-Z's 6-year flip of Tidal's streaming service is complete -- he just closed the deal to sell the majority of the company to Square for $350 million ... a pretty good return on his initial investme… [+1177 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Jessica Napoli",
+                "title": "Lady Gaga dognapping, attempted murder suspects plead not guilty at arraignment - Fox News",
+                "description": "In February, Lady Gaga's dog walker was shot in the chest and two of her French Bulldogs were stolen then later returned.",
+                "url": "https://www.foxnews.com/entertainment/lady-gaga-dognapping-attempted-murder-suspects-plead-not-guilty-arraignment",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/lady-gaga-met-ball-getty.jpg",
+                "publishedAt": "2021-04-30T15:03:08Z",
+                "content": "The five suspects who were arrested and charged for allegedly stealing Lady Gaga's two French Bulldogs, Gustav and Koji, and shooting her dog walker, Ryan Fischer, in the chest have pleaded not guilt… [+2813 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Nellie Andreeva",
+                "title": "Finn Wittrock To Headline ‘Green Lantern’ HBO Max Series As Guy Gardner - Deadline",
+                "description": "Finn Wittrock (American Horror Story) has been tapped to star as Guy Gardner/Green Lantern in HBO Max’s upcoming series based on the DC characters, from Berlanti Productions in association with Warner Bros. Television. Primetime-Panic Your Complete Guide to P…",
+                "url": "https://deadline.com/2021/04/finn-wittrock-green-lantern-hbo-max-series-guy-gardner-1234747347/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2021/04/finn-wittrock-green-lantern.jpg?w=1000",
+                "publishedAt": "2021-04-30T15:00:00Z",
+                "content": "Finn Wittrock (American Horror Story) has been tapped to star as Guy Gardner/Green Lantern in HBO Max’s upcoming series based on the DC characters, from Berlanti Productions in association with Warne… [+1700 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Deadline"
+                },
+                "author": "Dominic Patten",
+                "title": "Harvey Weinstein’s Extradition To LA To Face Rape Charges Set For May 30, Maybe - Deadline",
+                "description": "Harvey Weinstein could be heading out to Los Angeles within week to face multiple counts of sexual assault. Or not. In a short, but somewhat convoluted virtual hearing this morning, the lawyer for the already imprisoned producer promised to throw a habeas cor…",
+                "url": "https://deadline.com/2021/04/harvey-weinstein-rape-charges-extradition-los-angeles-delayed-1234747475/",
+                "urlToImage": "https://deadline.com/wp-content/uploads/2020/10/Harvey-weinstein-LA-DA.jpg?w=1000",
+                "publishedAt": "2021-04-30T14:56:00Z",
+                "content": "Harvey Weinstein could be heading out to Los Angeles within week to face multiple counts of sexual assault. Or not.\r\nIn a short, but somewhat convoluted virtual hearing this morning, the lawyer for t… [+4579 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Melissa Roberto",
+                "title": "‘Jeopardy!’ contestant condemns White supremacy, racism amid gesture controversy: 'Never meant to hurt a soul' - Fox News",
+                "description": "\"Jeopardy!\" contestant Kelly Donohue says he's \"truly horrified\" by accusations he flashed a hand gesture that's become synonymous with White supremacy groups.",
+                "url": "https://www.foxnews.com/entertainment/jeopardy-contestant-condemns-white-supremacy-racism-hand-gesture-controversy",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Kelly-Donohue.jpg",
+                "publishedAt": "2021-04-30T14:40:21Z",
+                "content": "\"Jeopardy!\" contestant Kelly Donohue \"unequivocally\" condemned White supremacy and racism on Thursday after viewers accused him of flashing a hand gesture during Tuesday's episode that has become syn… [+3242 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "The A.V. Club"
+                },
+                "author": "Tatiana Tenreyro",
+                "title": "British filmmaker and Doctor Who actor Noel Clarke has been accused of verbal abuse, bullying, and sexual hara - The A.V. Club",
+                "description": "On Thursday, The Guardian published an exposé where 20 women detailed accounts of verbal abuse, bullying, and sexual harassment  at the hands of Doctor Who actor and British filmmaker Noel Clarke.",
+                "url": "https://film.avclub.com/british-filmmaker-and-doctor-who-actor-noel-clarke-has-1846796790",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/518db7d5f0927fe9c76e42bb3de770dc.jpg",
+                "publishedAt": "2021-04-30T14:33:00Z",
+                "content": "On Thursday, The Guardian published an exposé on Noel Clarke, where multiple women shared allegations of verbal abuse, bullying, and sexual harassment against the actor and filmmaker. Clarke is perha… [+3775 chars]"
+            },
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "Peter Opaskar",
+                "title": "What I learned about cars watching all 8 Fast & Furious movies in 4 days - Ars Technica",
+                "description": "Revisiting our 2019 marathon of vehicular wisdom, thanks to new theatrical promotion.",
+                "url": "https://arstechnica.com/gaming/2021/04/what-i-learned-about-cars-watching-all-8-fast-furious-movies-in-4-days/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2019/08/Universal_FF2_YenkoCamaro-li-760x380.png",
+                "publishedAt": "2021-04-30T14:26:53Z",
+                "content": "Enlarge/ LOOKS LIKE THEM DUKE BOYS ARE AT IT AGAIN\r\n136 with 97 posters participating\r\nThis week, Universal Pictures announced that a different Fast and Furious movie will be in theaters once a week … [+11720 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "HuffPost"
+                },
+                "author": "Ron Dicker",
+                "title": "Mila Kunis: Glenn Close Has Another Hidden Talent Besides 'Da Butt' Dance - HuffPost",
+                "description": "The \"Four Good Days\" actor said her co-star won a certain challenge on the movie set \"every single day.\"",
+                "url": "https://www.huffpost.com/entry/mila-kunis-glenn-close-planking_n_608bfe41e4b0ccb91c31181f",
+                "urlToImage": "https://img.huffingtonpost.com/asset/608c0b2f220000c939f06083.jpg?cache=41nhxu25hw&ops=1778_1000",
+                "publishedAt": "2021-04-30T14:26:00Z",
+                "content": "Mila Kuniss screen mother on Four Good Days had some excellent days in planking contests on the set. (Watch the video below.)\r\nGlenn Close, who charmed this years Oscars by dancing to Da Butt, flexed… [+689 chars]"
+            },
+            {
+                "source": {
+                    "id": "usa-today",
+                    "name": "USA Today"
+                },
+                "author": "Sherry Barkas",
+                "title": "'We have waited so long for this': Disneyland reopens after 412 days - USA TODAY",
+                "description": "Disneyland and Disney California Adventure Park are finally open again in Anaheim. If only to California residents and at limited capacity.",
+                "url": "https://www.usatoday.com/story/travel/experience/america/theme-parks/2021/04/30/disneyland-reopening-2021-disney-california-parks-open-after-covid-closure/4881772001/",
+                "urlToImage": "https://www.gannett-cdn.com/presto/2021/03/17/USAT/3dc25379-25b8-43e9-9ee5-5c07f5a175f2-disney_reopens.jpg?crop=2559,1439,x1,y20&width=1600&height=800&fit=bounds",
+                "publishedAt": "2021-04-30T14:08:31Z",
+                "content": "Disneyland Resort and Disney California Adventure Park will reopen on April 30 with limited capacity, park officials announced Wednesday.\r\nVideo Elephant\r\nDisney's California theme parks had been sil… [+6472 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Hollywood Reporter"
+                },
+                "author": "Pamela McClintock",
+                "title": "Why the \"New Normal\" at Theaters May Mean a Premium Experience for Moviegoers - Hollywood Reporter",
+                "description": "As vaccines roll out, restrictions lift and theaters reopen, audiences have been willing to pay more for an enhanced experience because — after a year stuck at home — \"why do the ordinary?\"",
+                "url": "https://www.hollywoodreporter.com/news/movie-theaters-new-normal-covid-19-vaccines-premium-moviegoers",
+                "urlToImage": "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/SMG-PR-Auditorium-H-2021-1619542392-1024x577.jpg",
+                "publishedAt": "2021-04-30T14:00:48Z",
+                "content": "More than a quarter of moviegoers returning to theaters for Godzilla vs. Kong have paid an upcharge of $3 to $5 to experience the monster spectacle in Imax and on other premium large-format screens, … [+4749 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NPR"
+                },
+                "author": "Avie Schneider",
+                "title": "'Disaster Girl' NFT Sells For Nearly $500,000 - NPR",
+                "description": "Zoë Roth was just 4 when her dad took a picture of her standing in front a burning house. That photo launched uncounted memes, and now the original copy has sold at auction as a nonfungible token.",
+                "url": "https://www.npr.org/2021/04/30/992383825/disaster-girl-the-stuff-of-memes-sells-for-nearly-500-000-as-nft",
+                "urlToImage": "https://media.npr.org/assets/img/2021/04/30/nft_wide-61ba7d7d8fedb39f75d6a1e37007a5881bdf83bf.jpg?s=1400",
+                "publishedAt": "2021-04-30T14:00:00Z",
+                "content": "A nonfungible token, or NFT, is an increasingly lucrative niche in the fine art market.\r\nFilo/Getty Images\r\nZoë Roth was internet famous before many of us knew what that was.\r\nWhen she was 4, her dad… [+2081 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Miley Cyrus and The Kid LAROI sound really good together on “Without You” remix - LaineyGossip",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMicGh0dHBzOi8vd3d3LmxhaW5leWdvc3NpcC5jb20vbWlsZXktY3lydXMtYW5kLXRoZS1raWQtbGFyb2ktc291bmQtcmVhbGx5LWdvb2QtdG9nZXRoZXItb24td2l0aG91dC15b3UtcmVtaXgvNjg1NDTSAXRodHRwczovL3d3dy5sYWluZXlnb3NzaXAuY29tL21pbGV5LWN5cnVzLWFuZC10aGUta2lkLWxhcm9pLXNvdW5kLXJlYWxseS1nb29kLXRvZ2V0aGVyLW9uLXdpdGhvdXQteW91LXJlbWl4LzY4NTQ0L2FtcA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T13:57:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "IndieWire"
+                },
+                "author": "Zack Sharf",
+                "title": "Elliot Page Suffered Panic Attack After ‘Inception’ Premiere Over Hollywood Gender Pressure - IndieWire",
+                "description": "Page reveals he collapsed in his hotel room after the Paris premiere of Christopher Nolan's heist movie.",
+                "url": "https://www.indiewire.com/2021/04/elliot-page-panic-attack-inception-1234634413/",
+                "urlToImage": "https://www.indiewire.com/wp-content/uploads/2021/04/elliot.png?w=780",
+                "publishedAt": "2021-04-30T13:36:30Z",
+                "content": "Elliot Page joined Oprah for his first sit-down television interview since coming out as transgender in December 2020. The emotional interview includes several revelations from Page about how the pre… [+2244 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Www.https"
+                },
+                "author": "Variety",
+                "title": "'The Rifleman' star Johnny Crawford dead at 75 - Fox News",
+                "description": "In “The Rifleman,” Johnny Crawford played Mark McCain, son of Civil War veteran Lucas McCain, played by Chuck Connors.",
+                "url": "https://www.https://variety.com/2021/tv/global/johnny-crawford-dead-dies-the-rifleman-1234963779/",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/GettyImages-74259455.jpg",
+                "publishedAt": "2021-04-30T13:34:43Z",
+                "content": "Actor Johnny Crawford, known for playing Chuck Connors son in the ABC series \"The Rifleman\" from 1958-63, has died. He was 75.\r\n\"It is with great sadness and heaviness of heart that the Johnny Crawfo… [+2060 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Fox 59"
+                },
+                "author": "Garrett Fergeson, Ninette Sosa, Nexstar Media Wire",
+                "title": "Josh Duggar arrested, placed on a federal hold - Fox 59",
+                "description": "Josh Duggar, from the television show “19 Kids and Counting,” is behind bars.",
+                "url": "https://fox59.com/news/national-world/josh-duggar-arrested-placed-on-a-federal-hold/",
+                "urlToImage": "https://fox59.com/wp-content/uploads/sites/21/2021/04/Josh-Duggar.jpg?w=1280",
+                "publishedAt": "2021-04-30T13:33:22Z",
+                "content": "SPRINGDALE, Ark. (KNWA/KFTA) Josh Duggar, from the television show “19 Kids and Counting,” is behind bars and has been placed on a federal hold. \r\nIt’s not yet clear why Duggar is in custody.\r\nU.S. M… [+1435 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Los Angeles Times"
+                },
+                "author": "Robert Lloyd",
+                "title": "How Apple's 'Mosquito Coast' changes the book for the worse - Los Angeles Times",
+                "description": "Justin Theroux stars in Apple's spin on his uncle Paul's novel about an American family abroad. But the people they meet there are mostly cartoons.",
+                "url": "https://www.latimes.com/entertainment-arts/tv/story/2021-04-30/apple-tv-mosquito-coast-justin-theroux-paul-review",
+                "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/1cd183d/2147483647/strip/true/crop/3653x1918+187+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa2%2F41%2Fc3474fbd49d7b86ebe25fad138eb%2Fthe-mosquito-coast-photo-010101.jpg",
+                "publishedAt": "2021-04-30T13:00:41Z",
+                "content": "Perhaps the most interesting thing about The Mosquito Coast, which begins Friday on Apple TV+, is that it stars the nephew of the man who wrote the book on which it is (kinda) based. Justin Theroux (… [+7260 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Hollywood Reporter"
+                },
+                "author": "Mikey O'Connell",
+                "title": "Guy Fieri, Fired Up: The Food Network King, With a Massive New Deal, Pushes for More Restaurant Relief - Hollywood Reporter",
+                "description": "Once mocked by white-tablecloth elites, Fieri just signed a landmark pact for a TV chef as he steps into a respected elder statesman role in the food world — raising millions for workers unemployed due to COVID-19: \"I was pissed.\"",
+                "url": "https://www.hollywoodreporter.com/features/guy-fieri-the-food-network-restaurant-industry-covid-19-tv-deal",
+                "urlToImage": "https://static.hollywoodreporter.com/wp-content/uploads/2021/04/Guy_Fieri_David_Needleman_C_112_H_2021-1619561864-1024x577.jpg",
+                "publishedAt": "2021-04-30T13:00:34Z",
+                "content": "Guy Fieri's 1968 Camaro is conspicuously absent from the lineup of vintage wheels abutting his Windsor, California, ranch in Sonoma Valley wine country.\r\nThe cherry-red convertible seen in 400-plus e… [+13398 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Pitchfork"
+                },
+                "author": "Evan Minsker",
+                "title": "6 New Albums You Should Listen to Now: Dawn Richard, Matt Sweeney & Bonnie “Prince” Billy, Flying Lotus, and More - Pitchfork",
+                "description": "Also stream new releases from Shelley FKA DRAM, girl in red, and the Alchemist",
+                "url": "https://pitchfork.com/news/6-new-albums-you-should-listen-to-now-dawn-richard-matt-sweeney-and-bonnie-prince-billy-flying-lotus-and-more/",
+                "urlToImage": "https://media.pitchfork.com/photos/6089c5d4a6157dec5f2787cd/16:9/w_1280,c_limit/Dawn-Richard.png",
+                "publishedAt": "2021-04-30T12:46:45Z",
+                "content": "Flying Lotus:Yasuke [Warp]\r\nIn addition to working as a consultant and executive producer on Lesean Thomas LaKeith Stanfieldstarring Netflix anime series Yasuke, Flying Lotus provided he shows origin… [+1634 chars]"
+            }
+        ]
+    },
+
+    {
+        "name": "health",
+        "status": "ok",
+        "totalResults": 70,
+        "articles": [
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Sandee LaMotte, CNN",
+                "title": "First-ever US release of genetically modified mosquitoes begins in Florida Keys - CNN ",
+                "description": "The first US release of genetically modified mosquitoes began in the Florida Keys this week, part of a plan to fight a dangerous invasive species. The plan was approved by local and government agencies, but some Florida residents and environmental groups are …",
+                "url": "https://www.cnn.com/2021/04/30/health/genetically-modified-mosquitoes-us-scn-wellness/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/160908162336-03-zika-story-photos-super-tease.jpg",
+                "publishedAt": "2021-04-30T14:59:00Z",
+                "content": "(CNN)The first release of genetically modified mosquitoes in the United States began this week in the Florida Keys -- the culmination of a decade-long effort by local mosquito control authorities to … [+10121 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "WMTW Portland"
+                },
+                "author": null,
+                "title": "Maine CDC reports 2 new COVID-19 deaths, 268 additional cases - WMTW Portland",
+                "description": "The Maine Center for Disease Control and Prevention is reporting 268 additional COVID-19 cases on Friday and two new deaths.",
+                "url": "https://www.wmtw.com/article/maine-cdc-reports-2-new-covid-19-deaths-268-additional-cases/36298212",
+                "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/me-coronavirus-1585315390.png?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+                "publishedAt": "2021-04-30T14:22:00Z",
+                "content": "AUGUSTA, Maine —The Maine Center for Disease Control and Prevention is reporting 268 additional COVID-19 cases on Friday and two new deaths.\r\nThe number of Mainers who have died with COVID-19 is now … [+4252 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNBC"
+                },
+                "author": "Nate Rattner",
+                "title": "Covid vaccinations are slowing in the U.S. as supply outstrips demand. How states are targeting who's left - CNBC",
+                "description": "Meeting existing vaccine demand is no longer the main challenge, and states are employing strategies to address access and hesitancy barriers.",
+                "url": "https://www.cnbc.com/2021/04/30/covid-vaccinations-in-us-are-slowing-as-supply-outstrips-demand.html",
+                "urlToImage": "https://image.cnbcfm.com/api/v1/image/106876582-1619791887506-gettyimages-1232420550-AFP_98E2QY.jpeg?v=1619791947",
+                "publishedAt": "2021-04-30T13:06:51Z",
+                "content": "After months of a steady climb in vaccinations, the U.S. is experiencing its first true slowdown in the rate of daily shots, an indication that the nation is entering a new phase of its inoculation c… [+10099 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Amanda Capritto",
+                "title": "Is HIIT bad for you? The downsides of high-intensity workouts - CNET",
+                "description": "HIIT workouts promise better results in less time, but they can take a toll on your body.",
+                "url": "https://www.cnet.com/health/fitness/is-hiit-bad-for-you-the-downsides-of-high-intensity-workouts/",
+                "urlToImage": "https://www.cnet.com/a/img/_AWhL12IV0nFvMMDed-f68QkV0g=/1200x630/2021/04/27/06e23ebe-e6f2-45d4-9551-08a4d3be8b46/gettyimages-1311041275.jpg",
+                "publishedAt": "2021-04-30T13:00:10Z",
+                "content": "Jay Yuno/Getty Images\r\nHigh-intensity interval training (HIIT) has a lot of good going for it. Studies show that HIIT workouts can burn more calories in less time than other types of workouts, specif… [+8628 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Pam Moore",
+                "title": "Good sleep means more than getting enough hours. A consistent schedule matters, too. - The Washington Post",
+                "description": "A study of medical residents showed that their moods were affected by irregular sleep schedules, no matter how many total hours they slept.",
+                "url": "https://www.washingtonpost.com/lifestyle/wellness/enough-sleep-mental-health-circadian/2021/04/29/b9a2a396-a91e-11eb-bca5-048b2759a489_story.html",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MPJIANVJEII6XKFHL5C53TPTMQ.jpg&w=1440",
+                "publishedAt": "2021-04-30T12:00:00Z",
+                "content": "An NPJ Digital Medicine study published in February looked at the sleep habits of more than 2,000 first-year medical residents. The researchers found that variability in sleep habits significantly af… [+8853 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "AL.com"
+                },
+                "author": "Leada Gore | lgore@al.com",
+                "title": "Percent of positive COVID tests in Alabama at highest level since March 6 - AL.com",
+                "description": "Health officials in Alabama are urging vaccinations as a pathway to normalcy.",
+                "url": "https://www.al.com/news/2021/04/percent-of-positive-covid-tests-at-highest-level-since-march-6-vaccines-urged.html",
+                "urlToImage": "https://www.al.com/resizer/IJkD1uBMwI1fWiftU6Zs-erSGaQ=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/ZKW3OD4BZ5DRHPFM43VWTS4UTY.jpg",
+                "publishedAt": "2021-04-30T11:43:39Z",
+                "content": "The Alabama Department of Public Health is urging COVID-19 vaccinations amid an increase in positive coronavirus tests in the state.\r\nState Health Officer Dr. Scott Harris said the percentage of posi… [+1806 chars]"
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Alexandria Hein",
+                "title": "Low risk of coronavirus infection in babies born to moms who test positive - Fox News",
+                "description": "A new study is backing the guidance that babies born to mothers infected with coronavirus should not be separated after delivery.",
+                "url": "https://www.foxnews.com/health/low-risk-coronavirus-infection-babies-born-positive-moms",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/babies_moms_istock.jpg",
+                "publishedAt": "2021-04-30T11:32:33Z",
+                "content": "A new study is backing the guidance that babies born to mothers infected with coronavirus should not be separated after delivery. Researchers at Karolinska Institutet and the Public Health Agency of … [+3017 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Best Life"
+                },
+                "author": "Allie Hogan",
+                "title": "This Could Be One of the First Signs You Have Dementia, Experts Say - Best Life",
+                "description": "Out of character financial behavior, such as forgetting to pay bills and outlandish spending, could be an early sign of dementia.",
+                "url": "http://bestlifeonline.com/early-dementia-sign-news/",
+                "urlToImage": "https://i0.wp.com/bestlifeonline.com/wp-content/uploads/2021/04/older.jpg?fit=1200%2C800&ssl=1",
+                "publishedAt": "2021-04-30T11:32:11Z",
+                "content": "Dementia can have a slow onset, which means people often miss many of the early signs of the condition. The first symptoms of cognitive decline can be subtle to outsiders, but they can also have a si… [+4139 chars]"
+            },
+            {
+                "source": {
+                    "id": "abc-news",
+                    "name": "ABC News"
+                },
+                "author": "Arielle Mitropoulos, John Brownstein",
+                "title": "COVID burden shifts to younger Americans with older generations vaccinated - ABC News",
+                "description": "",
+                "url": "https://abcnews.go.com/US/covid-burden-shifts-younger-americans-older-generations-vaccinated/story?id=77347084",
+                "urlToImage": "https://s.abcnews.com/images/Health/covid-hospital-florida-rt-jt-210429_1619721154531_hpMain_16x9_992.jpg",
+                "publishedAt": "2021-04-30T10:16:45Z",
+                "content": "With vaccination totals increasing and coronavirus cases declining across the country, many Americans are feeling a newfound sense of hope, that perhaps, there is finally a light at the end of the tu… [+7601 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Yahoo Entertainment"
+                },
+                "author": "OLIVIA DAVIES",
+                "title": "So you missed your 2nd COVID shot. Now what? - Yahoo! Voices",
+                "description": "About 5 million Americans missed receiving their second dose of Pfizer or Moderna COVID-19 vaccine, according to Centers for Disease Control and Prevention...",
+                "url": "https://www.yahoo.com/gma/missed-2nd-covid-shot-now-100558292.html",
+                "urlToImage": "https://s.yimg.com/uu/api/res/1.2/h5Y.D_DsbyXQm4G3bWaKBQ--~B/aD00NTY7dz02MDg7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/us.abcnews.gma.com/e9f1ce5b4f3a6fd08fbcc2ff02f1199a",
+                "publishedAt": "2021-04-30T10:05:58Z",
+                "content": "About 5 million Americans missed receiving their second dose of Pfizer or Moderna COVID-19 vaccine, according to Centers for Disease Control and Prevention data released on Sunday.\r\nBut with some upc… [+3570 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-wall-street-journal",
+                    "name": "The Wall Street Journal"
+                },
+                "author": "Jason Douglas, Kyle Kim",
+                "title": "The Covid-19 Vaccine Club: How the World’s Biggest Producers Depend on Each Other - The Wall Street Journal",
+                "description": "Trade experts warn that restrictions on vaccine exports risk squeezing production just when it is needed most",
+                "url": "https://www.wsj.com/articles/the-covid-19-vaccine-club-how-the-worlds-biggest-producers-depend-on-each-other-11619775001",
+                "urlToImage": "https://images.wsj.net/im-330556/social",
+                "publishedAt": "2021-04-30T09:30:00Z",
+                "content": "Thats because the worlds major vaccine producers rely on each other for the essential ingredients to manufacture vaccines through a web of cross-border supply chains in complex chemicals, fatty acids… [+4353 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NPR"
+                },
+                "author": "",
+                "title": "Encouraging Results For Alzheimer's Drug Repurposed For Fragile X Syndrome : Shots - Health News - NPR",
+                "description": "An experimental medicine seems to ease symptoms of Fragile X syndrome, a genetic disorder that is the most common inherited cause of intellectual disabilities and autism.",
+                "url": "https://www.npr.org/sections/health-shots/2021/04/30/992160875/an-alzheimers-drug-may-boost-cognition-in-people-with-fragile-x-syndrome",
+                "urlToImage": "https://media.npr.org/assets/img/2021/04/29/sciencesource_ss22489561_wide-a2304ba8773f5077da99e0f4340a29dd927dae9b.jpg?s=1400",
+                "publishedAt": "2021-04-30T09:02:17Z",
+                "content": "An experimental drug intended for Alzheimer's patients seems to improve both language and learning in adults with Fragile X syndrome.\r\nThe drug, called BPN14770, increased cognitive scores by about 1… [+3151 chars]"
+            },
+            {
+                "source": {
+                    "id": "usa-today",
+                    "name": "USA Today"
+                },
+                "author": "Michael J. Stern",
+                "title": "It's time to start shunning the 'vaccine hesitant.' They're blocking COVID herd immunity. - Yahoo News",
+                "description": "Enough analysis of these human petri dishes. Everyone who wants a vaccine will soon have one, and proof should be required to work, play and travel.",
+                "url": "https://www.usatoday.com/story/opinion/2021/04/30/require-covid-vaccine-resume-normal-life-herd-immunity-column/4886673001/",
+                "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/29/USAT/efe743a6-f0f0-4fbb-b945-43954beec789-AFP_AFP_98V7KH.jpg?crop=4803,2702,x96,y0&width=3200&height=1680&fit=bounds",
+                "publishedAt": "2021-04-30T08:00:43Z",
+                "content": "Enough analysis of these human petri dishes. Everyone who wants a vaccine will soon have one, and proof should be required to work, play and travel.\r\nHas-been rock star Ted Nugent told the world last… [+6272 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KABC-TV"
+                },
+                "author": "Jessica De Nova",
+                "title": "Orange County woman's death after 2nd dose of Moderna COVID-19 vaccine spurs concern from family - KABC-TV",
+                "description": "The Orange County Coroner's office is investigating the death of a woman who died just days after she received her second dose of the Moderna vaccine.",
+                "url": "https://abc7.com/moderna-vaccine-covid-side-effects-orange-county-coroner-death-investigation/10562182/",
+                "urlToImage": "https://cdn.abcotvs.com/dip/images/10562121_042921-kabc-830pm-griselda-flores-vid-CC-vid.jpg?w=1600",
+                "publishedAt": "2021-04-30T06:40:18Z",
+                "content": "SANTA ANA, Calif. (KABC) -- The Orange County Coroner's office is investigating the death of a woman who died just days after she received her second dose of the Moderna vaccine.The family says the g… [+2508 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Channel3000.com - WISC-TV3"
+                },
+                "author": null,
+                "title": "'Fueled by cautious optimism': Dane County No. 1 in state for residents with one dose of vaccine, loosens restrictions - Channel3000.com - WISC-TV3",
+                "description": "Dane County is leading the way in COVID-19 vaccinations, officially No. 1 in the state for percent of residents who have gotten at least one dose.",
+                "url": "https://www.channel3000.com/fueled-by-cautious-optimism-dane-county-no-1-in-state-for-residents-with-one-dose-of-vaccine-loosens-restrictions/",
+                "urlToImage": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.channel3000.com/content/uploads/2021/04/r/a/madison-store.jpg",
+                "publishedAt": "2021-04-30T02:28:00Z",
+                "content": "Posted: April 29, 2021 9:28 PM\r\nMADISON, Wis. Dane County is leading the way in COVID-19 vaccinations, officially No. 1 in the state for percent of residents who have gotten at least one dose.\r\nAs of… [+3450 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KPTV.com"
+                },
+                "author": "",
+                "title": "Reason behind 300 hospitalizations moving a county into “Extreme Risk” - KPTV.com",
+                "description": "PORTLAND, OR (KPTV) – The Oregon Health Authority says earlier this year hospitalizations peaked out around 584 beds statewide. It was a time OHA says the health care system was",
+                "url": "https://www.kptv.com/news/reason-behind-300-hospitalizations-moving-a-county-into-extreme-risk/article_26531a1c-a95a-11eb-b1c0-d33572193d84.html",
+                "urlToImage": "https://bloximages.newyork1.vip.townnews.com/kptv.com/content/tncms/assets/v3/editorial/2/7a/27ac69b2-a95b-11eb-ba8e-3f421fa9d03d/608b6a688e5d0.image.jpg?resize=1120%2C630",
+                "publishedAt": "2021-04-30T02:17:00Z",
+                "content": "PORTLAND, OR (KPTV) The Oregon Health Authority says earlier this year hospitalizations peaked out around 584 beds statewide. It was a time OHA says the health care system was extremely close to reac… [+1331 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KTVZ"
+                },
+                "author": "https://www.facebook.com/alecnolanktvz/",
+                "title": "Nearly 200 Bend Senior HS students receive COVID-19 vaccines at first clinic, despite protests by opponents - KTVZ",
+                "description": "Early Thursday morning, a group of about two dozen protesters gathered outside Bend Senior High School to voice their concerns at the first of several COVID-19 vaccination clinics being held at high schools around Central Oregon. But nearly 200 students recei…",
+                "url": "https://ktvz.com/news/coronavirus/2021/04/29/covid-19-vaccine-critics-protest-at-bend-senior-high-school-vaccination-clinic/",
+                "urlToImage": "https://ktvz.b-cdn.net/2021/04/Screen-Shot-2021-04-29-at-5.28.19-PM.png",
+                "publishedAt": "2021-04-30T01:07:32Z",
+                "content": "(Update: Adding video, comments)\r\nOne critic says vaccine is 'sterilization'\r\nBEND, Ore. (KTVZ) -- Early Thursday morning, a group of about two dozen protesters gathered outside Bend Senior High Scho… [+2804 chars]"
+            },
+            {
+                "source": {
+                    "id": "reuters",
+                    "name": "Reuters"
+                },
+                "author": "Reuters,Ricardo Brito",
+                "title": "Brazil Senate votes to suspend patent protection on COVID-19 vaccines - Reuters",
+                "description": "Brazil's Senate on Thursday approved a bill to suspend patent protection for COVID-19 vaccines, tests and medications during the pandemic, sending the proposal to the lower house of Congress for consideration and possible amendments.",
+                "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/brazil-senate-votes-suspend-patent-protection-covid-19-vaccines-2021-04-30/",
+                "urlToImage": "https://www.reuters.com/resizer/U3L9YHBkNWXBQA_fjfPNqxlzBU4=/1200x628/smart/cloudfront-us-east-2.images.arcpublishing.com/reuters/3VXAPPYNMJKLXAAA7ME6BVENWI.jpg",
+                "publishedAt": "2021-04-30T00:59:00Z",
+                "content": "A woman holds a small bottle labeled with a \"Coronavirus COVID-19 Vaccine\" sticker and a medical syringe in this illustration taken October 30, 2020. REUTERS/Dado RuvicBrazil's Senate on Thursday app… [+1791 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "KING5.com"
+                },
+                "author": "Eric Wilkinson",
+                "title": "Washington health officials worry about increased COVID-19 counts in kids - KING5.com",
+                "description": "In Skagit County, children now have a higher case rate than people over 70.",
+                "url": "https://www.king5.com/article/news/health/coronavirus/increased-covid-cases-children-washington-state/281-1dac27d1-4b0c-4179-b756-ab4f234176aa",
+                "urlToImage": "https://media.king5.com/assets/KING/images/4e39dd24-5d4e-4992-8f0c-641b5521fc41/4e39dd24-5d4e-4992-8f0c-641b5521fc41_1140x641.jpg",
+                "publishedAt": "2021-04-30T00:40:00Z",
+                "content": "MOUNT VERNON, Wash. Children under age 10 have consistently had the lowest COVID-19 case rates, but that has been changing. Now they have higher rates of COVID-19 than people over 70.\r\nThe American A… [+2122 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "STLtoday.com"
+                },
+                "author": "Michele Munz",
+                "title": "Many choosing to get Johnson & Johnson vaccine after 10-day pause lifted, but vaccinations wane overall - STLtoday.com",
+                "description": "People continue to choose the one-dose Johnson &amp; Johnson vaccine over the others despite the extremely rare reports of blood clots because of convenience, fear of needles and need to",
+                "url": "https://www.stltoday.com/lifestyles/health-med-fit/coronavirus/many-choosing-to-get-johnson-johnson-vaccine-after-10-day-pause-lifted-but-vaccinations-wane/article_a93cb8e9-afde-57ff-ac81-36bf54382771.html",
+                "urlToImage": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/86/0865e737-cd0f-5807-b6dd-f44f0a2d9ab1/608b4bcd2ed16.image.jpg?crop=1763%2C992%2C0%2C91&resize=1120%2C630&order=crop%2Cresize",
+                "publishedAt": "2021-04-30T00:34:07Z",
+                "content": "Some people are afraid of needles and dont want to face having to get another shot, she said. One woman was 15 weeks pregnant and wanted protection quickly for her and her fetus, as pregnancy can inc… [+1324 chars]"
+            }
+        ]
+    },
+
+    {
+        "name": "science",
+        "status": "ok",
+        "totalResults": 65,
+        "articles": [
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "Eric Berger",
+                "title": "Weather permitting, SpaceX will attempt to fly Starship prototype today - Ars Technica",
+                "description": "After four landing failures, here's hoping the fifth time is the charm.",
+                "url": "https://arstechnica.com/science/2021/04/weather-permitting-spacex-will-attempt-to-fly-starship-prototype-today/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/03/SN11-Mar-30-2021-0233-760x380.jpg",
+                "publishedAt": "2021-04-30T15:17:17Z",
+                "content": "Enlarge/ Engine cutoff, with SN11 entering its bellyflop maneuver, on March 30, 2021.\r\n48 with 33 posters participating\r\nSpaceX has received permission from the US Federal Aviation Administration to … [+3401 chars]"
+            },
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "John Timmer",
+                "title": "Dozens of viruses seem to use a different DNA base - Ars Technica",
+                "description": "Odd form of DNA helps viruses resist their host's defenses.",
+                "url": "https://arstechnica.com/science/2021/04/lots-of-viruses-have-a-distinct-form-of-dna-with-its-own-base/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/Screen-Shot-2021-04-30-at-9.51.05-AM-760x380.png",
+                "publishedAt": "2021-04-30T14:51:57Z",
+                "content": "Enlarge/ Normal DNA uses adenine (left), while some viruses use diaminopurine instead.\r\n8 with 8 posters participating, including story author\r\nDNA is the genetic material used by every living organi… [+6095 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Live Science"
+                },
+                "author": "Tom Metcalfe",
+                "title": "'Untouched' Bronze Age tomb containing human remains and a mysterious stone found in Ireland - Livescience.com",
+                "description": "Discovered by workmen on a farm.",
+                "url": "https://www.livescience.com/ancient-chamber-tomb-untouched-in-ireland.html",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/xp4cbMYcSxCMrLMqJfuujC-1200-80.jpg",
+                "publishedAt": "2021-04-30T12:13:58Z",
+                "content": "An ancient tomb thought to date back more than 3,000 years has been discovered in southwest Ireland by workmen carrying out land improvements on a farm.\r\nArchaeologists say the tomb on the Dingle Pen… [+4731 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Space.com"
+                },
+                "author": "Jonathan O'Callaghan",
+                "title": "7 solar system worlds where the weather is crazy - Space.com",
+                "description": "What's the weather like on other worlds? Expect methane rain, global haboobs and a 10,000-mile-wide hurricane.",
+                "url": "https://www.space.com/crazy-solar-system-world-weather",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/kqscCDTNiRzTKPLdtdzYHH-1200-80.jpeg",
+                "publishedAt": "2021-04-30T11:23:12Z",
+                "content": "Our solar system\r\n is home to some weird and wonderful weather, with storms more terrifying in scale than anything in Earth\r\n's recorded history. From centuries-old hurricanes on Jupiter\r\n to immense… [+9485 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "SpaceNews"
+                },
+                "author": "Andrew Jones",
+                "title": "Huge rocket looks set for uncontrolled reentry following Chinese space station launch - SpaceNews",
+                "description": "The Long March 5B rocket which launched China's first space station module Thursday is likely to undergo an uncontrolled reentry into the Earth's atmosphere in the coming says.",
+                "url": "https://spacenews.com/huge-rocket-looks-set-for-uncontrolled-reentry-following-chinese-space-station-launch/",
+                "urlToImage": "https://spacenews.com/wp-content/uploads/2021/04/LongMarch5B-Tianhe-liftoff-29april2021-1.jpg",
+                "publishedAt": "2021-04-30T11:15:28Z",
+                "content": "Long March 5B core stage likely to reenter the Earth's atmosphere in the coming days.\r\nHELSINKI China launched the first module for its space station into orbit late Wednesday, but the mission launch… [+5827 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Live Science"
+                },
+                "author": "Adam Mann",
+                "title": "Dark matter could be destroying itself inside the bellies of exoplanets - Livescience.com",
+                "description": "Researchers propose learning more about dark matter by looking for its effects inside exoplanets.",
+                "url": "https://www.livescience.com/dark-matter-destroying-itself-inside-exoplanets.html",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/64sD57ag6rG2qUWSWfmwbJ-1200-80.jpeg",
+                "publishedAt": "2021-04-30T11:03:13Z",
+                "content": "Large gaseous exoplanets could be filled with self-destructing dark matter\r\n. And now, a team of researchers has proposed using the soon-to-be-launched James Webb Space Telescope to scan distant behe… [+3853 chars]"
+            },
+            {
+                "source": {
+                    "id": "cbs-news",
+                    "name": "CBS News"
+                },
+                "author": "Sophie Lewis",
+                "title": "An asteroid traveled for 23 million years before crashing into Earth — and now scientists know where it came from - CBS News",
+                "description": "The asteroid shot across the sky like a fireball​ before landing in Botswana in June 2018, leaving behind a slew of meteorites.",
+                "url": "https://www.cbsnews.com/news/asteroid-2018-botswana-origins/",
+                "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/04/29/bd6f0e2b-29eb-435f-968a-44b6d2eadb6c/thumbnail/1200x630/8b6de3c8ffe2d8c91416feb20883fbca/fragment-of-asteroid-2018-la-jenniskens.jpg",
+                "publishedAt": "2021-04-30T11:02:40Z",
+                "content": "A small asteroid crashed into Earth three years ago — and now scientists know where it came from. Researchers have traced the origins of the resulting rare meteorite fragments, which began the journe… [+3775 chars]"
+            },
+            {
+                "source": {
+                    "id": "ars-technica",
+                    "name": "Ars Technica"
+                },
+                "author": "Eric Berger",
+                "title": "Rocket Report: Blue Origin protests Starship, China launches space station - Ars Technica",
+                "description": "“The ability to refuel in space is critical to meeting NASA’s goals.\"",
+                "url": "https://arstechnica.com/science/2021/04/rocket-report-blue-origin-protests-starship-china-launches-space-station/",
+                "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/04/51143502370_5d24896bf4_k-760x380.jpg",
+                "publishedAt": "2021-04-30T11:00:22Z",
+                "content": "Enlarge/ The Delta IV Heavy rocket launches on April 26, 2021. Yes, it's ok that the rocket is on fire.\r\n57 with 31 posters participating\r\nWelcome to Edition 3.43 of the Rocket Report! Please note th… [+12507 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "SciTechDaily"
+                },
+                "author": null,
+                "title": "NASA’s Ingenuity Helicopter Failed to Takeoff for Fourth Flight on Mars - SciTechDaily",
+                "description": "Data received from the Mars Ingenuity helicopter on Thursday morning shows the helicopter did not execute its planned fourth flight as scheduled. The helicopter is safe and in good health. Data returned during a downlink at 1:21 p.m. EDT (10:21 a.m. PDT) indi…",
+                "url": "https://scitechdaily.com/nasas-ingenuity-helicopter-failed-to-takeoff-for-fourth-flight-on-mars/",
+                "urlToImage": "https://scitechdaily.com/images/NASA-Mars-Ingenuity-Helicopter-Spin.gif",
+                "publishedAt": "2021-04-30T10:16:47Z",
+                "content": "NASA’s Mars Perseverance rover acquired this image using its Right Mastcam-Z camera. Mastcam-Z is a pair of cameras located high on the rover’s mast. This is one still frame from a sequence captured … [+1175 chars]"
+            },
+            {
+                "source": {
+                    "id": "mashable",
+                    "name": "Mashable"
+                },
+                "author": "Kellen Beck",
+                "title": "NASA's 'mole' tried to dig into Mars. It didn't go as planned. - Mashable",
+                "description": "Learn from your mistakes.",
+                "url": "https://mashable.com/article/mars-mole-robot/",
+                "urlToImage": "https://mondrian.mashable.com/2021%252F04%252F30%252Faa%252F358b8152e4584c16bd96bbf202a4317f.22bee.png%252F1200x630.png?signature=1DZBlpwlBtZrfUDMzAOX0ekYeVo=",
+                "publishedAt": "2021-04-30T09:00:00Z",
+                "content": "From the robots that fail miserably at their jobs to the robots dealing with our literal crap, Mashables Crappy Robots dives into the complex world of automation for better or worse or much, much wor… [+6965 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "ScienceAlert"
+                },
+                "author": "Michelle Starr",
+                "title": "1 Billion-Year-Old Fossil Could Be The Oldest Multicellular Animal on Record - ScienceAlert",
+                "description": "A teeny tiny fossil found in the Scottish Highlands could be a missing link in the evolutionary history of animals.",
+                "url": "https://www.sciencealert.com/ancient-fossil-could-be-the-oldest-multicellular-animal-on-record",
+                "urlToImage": "https://www.sciencealert.com/images/2021-04/processed/loch-torridon_1024.jpg",
+                "publishedAt": "2021-04-30T07:33:24Z",
+                "content": "A teeny tiny fossil found in the Scottish Highlands could be a missing link in the evolutionary history of animals.\r\nDated to around a billion years ago, the microfossil shows evidence of two distinc… [+3908 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "NASASpaceflight.com"
+                },
+                "author": "Chris Bergin",
+                "title": "Starship SN15 set for Friday launch pending acceptable weather - NASASpaceFlight.com - NASASpaceflight.com",
+                "description": "Following two successful Static Fire tests during the week, Starship SN15 is set to launch…",
+                "url": "https://www.nasaspaceflight.com/2021/04/starship-sn15-tests-mcgregor-raptor-testing/",
+                "urlToImage": "https://www.nasaspaceflight.com/wp-content/uploads/2021/04/NSF-2021-04-30-14-04-42-770.jpg",
+                "publishedAt": "2021-04-30T05:01:40Z",
+                "content": "Following two successful Static Fire tests during the week, Starship SN15 is set to launch Friday afternoon – pending acceptable weather. The test will take place amid ongoing groundwork for the push… [+9904 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "The Indian Express"
+                },
+                "author": "Om Marathe",
+                "title": "Explained: Why does Russia want to leave the International Space Station? - The Indian Express",
+                "description": "Russia has announced that it would be withdrawing from the International Space Station in 2025, and build and manage its own floating laboratory that will be launched into orbit by 2030.",
+                "url": "https://indianexpress.com/article/explained/explained-why-russia-wants-to-leave-the-international-space-station-7288790/",
+                "urlToImage": "https://images.indianexpress.com/2021/04/ISS100.jpg",
+                "publishedAt": "2021-04-30T02:28:08Z",
+                "content": "After more than two decades of international cooperation in space research, Russia this week announced that it would be withdrawing from the International Space Station in 2025, and build and manage … [+5100 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Jackson Ryan",
+                "title": "NASA solar probe zooms past Venus and smashes two wild space records -- again - CNET",
+                "description": "The Parker Solar Probe works it, makes it, does it better, faster, stronger.",
+                "url": "https://www.cnet.com/news/nasa-solar-probe-zooms-past-venus-and-smashes-two-wild-space-records-again/",
+                "urlToImage": "https://www.cnet.com/a/img/bgpBEOTPt4GZCItifosy-qPS5WQ=/1200x630/2018/10/03/f0c21d50-f31f-475b-ae3f-0039a88ea60f/wts-parker-solar-probe-cnet-thumb.jpg",
+                "publishedAt": "2021-04-30T00:38:00Z",
+                "content": "Record breaker.\r\nNASA\r\nRight now NASA's Parker Solar Probe, a diminutive, scorch-proof spacecraft about the size of a small car is practically \"touching the sun.\" And it's smashed two wild records, d… [+1537 chars]"
+            },
+            {
+                "source": {
+                    "id": "cnn",
+                    "name": "CNN"
+                },
+                "author": "Paul P. Murphy, CNN",
+                "title": "Glaciers are melting much faster than expected, study finds - CNN ",
+                "description": "A new study indicates that the speed of glacier melt has \"doubled over the past two decades\" -- far faster than anticipated or previously measured.",
+                "url": "https://www.cnn.com/2021/04/29/weather/glacier-melt-faster-rate-scn/index.html",
+                "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210429175604-1-glacier-melt-study-super-tease.jpg",
+                "publishedAt": "2021-04-29T22:06:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Phys.Org"
+                },
+                "author": "James Badham",
+                "title": "Hydrogen in hybrid perovskites is less innocent than it looks - Phys.org",
+                "description": "Researchers in the materials department in UC Santa Barbara's College of Engineering have uncovered a major cause of limitations to efficiency in a new generation of solar cells.",
+                "url": "https://phys.org/news/2021-04-hydrogen-hybrid-perovskites-innocent.html",
+                "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/less-innocent-than-it-.jpg",
+                "publishedAt": "2021-04-29T20:41:02Z",
+                "content": "Researchers in the materials department in UC Santa Barbara's College of Engineering have uncovered a major cause of limitations to efficiency in a new generation of solar cells.\r\nVarious possible de… [+4177 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Space.com"
+                },
+                "author": "Samantha Mathewson",
+                "title": "See the 'Super Pink Moon' of April 2021 shine in these stunning photos - Space.com",
+                "description": "It wasn't really pink — but it was super!",
+                "url": "https://www.space.com/super-pink-moon-2021-photos",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/2zEF9hLqNUEhHBnmL8jRgM-1200-80.jpg",
+                "publishedAt": "2021-04-29T20:13:51Z",
+                "content": "The Super Pink Moon is seen over Stonehenge in Amesbury, England, during the early morning of April 27, 2021. (Image credit: Finnbarr Webster/Getty Images)\r\nApril's full moon, called the \"Super Pink … [+5207 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Live Science"
+                },
+                "author": "Harry Baker",
+                "title": "Mystery of extinct horned crocodile solved after 150 years - Livescience.com",
+                "description": "They likely lived alongside humans in Madagascar before they were wiped out.",
+                "url": "https://www.livescience.com/horned-crocodile-mystery-solved.html",
+                "urlToImage": "https://cdn.mos.cms.futurecdn.net/7L2AKmBNjgArDisdo35ksS-1200-80.jpg",
+                "publishedAt": "2021-04-29T18:16:46Z",
+                "content": "After almost 150 years of controversy, scientists have finally solved the classification mystery surrounding the extinct horned crocodile\r\n and determined exactly where this cryptic croc belongs on t… [+5726 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Phys.Org"
+                },
+                "author": "Science X staff",
+                "title": "Lightning and subvisible discharges produce molecules that clean the atmosphere - Phys.org",
+                "description": "Lightning bolts break apart nitrogen and oxygen molecules in the atmosphere and create reactive chemicals that affect greenhouse gases. Now, a team of atmospheric chemists and lightning scientists have found that lightning bolts and, surprisingly, subvisible …",
+                "url": "https://phys.org/news/2021-04-lightning-subvisible-discharges-molecules-atmosphere.html",
+                "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2021/lightning-and-subvisib.jpg",
+                "publishedAt": "2021-04-29T18:00:07Z",
+                "content": "Lightning bolts break apart nitrogen and oxygen molecules in the atmosphere and create reactive chemicals that affect greenhouse gases. Now, a team of atmospheric chemists and lightning scientists ha… [+4442 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Science Magazine"
+                },
+                "author": null,
+                "title": "A widespread pathway for substitution of adenine by diaminopurine in phage genomes - Science Magazine",
+                "description": "Four nucleobases. adenine (A), cytosine (C), guanine (G), and thymine (T), are usually thought to be invariable in DNA. In bacterial viruses, however, each of the DNA bases have variations that help them to escape degradation by bacterial restriction enzymes.…",
+                "url": "https://science.sciencemag.org/content/372/6541/512.full",
+                "urlToImage": "https://science.sciencemag.org/content/372/6541/512/F1.large.jpg",
+                "publishedAt": "2021-04-29T17:56:10Z",
+                "content": "By Yan Zhou, Xuexia Xu, Yifeng Wei, Yu Cheng, Yu Guo, Ivan Khudyakov, Fuli Liu, Ping He, Zhangyue Song, Zhi Li, Yan Gao, Ee Lui Ang, Huimin Zhao, Yan Zhang, Suwen Zhao\r\nScience30 Apr 2021 : 512-516"
+            }
+        ]
+    },
+
+    {
+        "name": "sports",
+        "status": "ok",
+        "totalResults": 70,
+        "articles": [
+            {
+                "source": {
+                    "id": null,
+                    "name": "CBS Sports"
+                },
+                "author": "",
+                "title": "2021 NFL Draft Round 1 winners and losers: Bears, 49ers, Ravens log victories as Panthers, Raiders stumble - CBS Sports",
+                "description": "A rundown of all the most notable moves on Day 1 of the NFL Draft",
+                "url": "https://www.cbssports.com/nfl/news/2021-nfl-draft-round-1-winners-and-losers-bears-49ers-ravens-log-victories-as-panthers-raiders-stumble/",
+                "urlToImage": "https://sportshub.cbsistatic.com/i/r/2021/04/30/65343da3-457b-4595-b8d5-11d701e724d9/thumbnail/1200x675/735b08da309341049db9b5954b9fa228/trey-lance-49ers.jpg",
+                "publishedAt": "2021-04-30T16:00:00Z",
+                "content": "The first round of the 2021 NFL Draft is in the books. Thirty-two picks are down, and dozens more are on the way on Friday for rounds 2 and 3. Which teams, prospects and other players benefited from … [+5810 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "PhillyVoice.com"
+                },
+                "author": null,
+                "title": "Eagles first round draft grade - PhillyVoice.com",
+                "description": "The Philadelphia Eagles have rightfully been criticized for some underwhelming drafts over the last few years, but on Day 1 of the 2021 NFL Draft, Howie Roseman and Co. absolutely crushed it.",
+                "url": "https://www.phillyvoice.com/eagles-first-round-draft-grade-howie-roseman-devonta-smith-058882/",
+                "urlToImage": "https://media.phillyvoice.com/media/images/USATSI_13328373.232caf36.fill-1200x630-c0.jpg",
+                "publishedAt": "2021-04-30T14:35:26Z",
+                "content": "The Philadelphia Eagles have rightfully been criticized for some underwhelming drafts over the last few years, but on Day 1 of the 2021 NFL Draft, Howie Roseman and Co. absolutely crushed it.\r\nThe pl… [+4279 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "How San Francisco 49ers drafting Trey Lance impacts Jimmy Garoppolo | Pro Football Talk | NBC Sports - NBC Sports",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9c01XZktHSXZxNnfSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T14:26:28Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "fox-news",
+                    "name": "Fox News"
+                },
+                "author": "Ryan Gaydos",
+                "title": "Kentucky Derby favorite overshadowed by sheikh's controversy - Fox News",
+                "description": "Essential Quality will enter Churchill Downs on Saturday night as the favorite to win the Kentucky Derby, but there is a cloud of mystery and intrigue over the horse’s owner.",
+                "url": "https://www.foxnews.com/sports/kentucky-derby-favorite-sheikh",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2021/04/Sheikh-Mohammed.jpg",
+                "publishedAt": "2021-04-30T14:05:57Z",
+                "content": "Essential Quality will enter Churchill Downs on Saturday night as the favorite to win the Kentucky Derby, but there is a cloud of mystery and intrigue over the horses owner.\r\nSheikh Mohammed bin Rash… [+2971 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Post"
+                },
+                "author": "Fox News",
+                "title": "Zach Wilson's mom trends on Twitter after Jets select him in NFL Draft - New York Post ",
+                "description": "Zach Wilson was drafted second overall by the New York Jets on Thursday, but that’s not exactly why the former BYU quarterback was trending on social media. Twitter erupted after cameras panned ove…",
+                "url": "https://nypost.com/2021/04/30/zach-wilsons-mom-trends-on-twitter-after-jets-select-him-in-nfl-draft/",
+                "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2021/04/zach-wilson-mom-1.jpg?quality=90&strip=all&w=1200",
+                "publishedAt": "2021-04-30T13:54:00Z",
+                "content": "Zach Wilson was drafted second overall by the New York Jets on Thursday, but thats not exactly why the former BYU quarterback was trending on social media.\r\nTwitter erupted after cameras panned over … [+649 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "ESPN"
+                },
+                "author": "David Newton",
+                "title": "Carolina Panthers pick up fifth-year option on QB Sam Darnold - ESPN",
+                "description": "Sam Darnold is guaranteed $18.8 million from the Panthers in 2022 after the team picked up his fifth-year option. Carolina showed its commitment to its offseason trade acquisition by not selecting another quarterback in the draft.",
+                "url": "https://www.espn.com/nfl/story/_/id/31364814/carolina-panthers-pick-fifth-year-option-qb-sam-darnold",
+                "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2021%2F0405%2Fr836453_1296x729_16%2D9.jpg",
+                "publishedAt": "2021-04-30T13:52:00Z",
+                "content": "CHARLOTTE, N.C. -- The Carolina Panthers showed how committed they were to Sam Darnold in Thursday's first round of the NFL draft by not picking a quarterback, and backed that up Friday morning by pi… [+2543 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "ESPN"
+                },
+                "author": "Adam Rittenberg",
+                "title": "Kansas hires Buffalo's Lance Leipold as football coach - ESPN",
+                "description": "Kansas has hired Buffalo's Lance Leipold as the replacement for the fired Les Miles.",
+                "url": "https://www.espn.com/college-football/story/_/id/31364799/kansas-expected-hire-buffalo-lance-leipold-football-coach-sources-say",
+                "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2020%2F0222%2Fr669541_1296x729_16%2D9.jpg",
+                "publishedAt": "2021-04-30T13:48:03Z",
+                "content": "Kansas has hired Buffalo's Lance Leipold as head football coach, the school announced Friday.\r\nThe Jayhawks and Leipold agreed to a six-year contract, according to the school.\r\n\"It is an exciting and… [+2634 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Pats Pulpit"
+                },
+                "author": "Bernd Buchmasser",
+                "title": "Take a look inside the Patriots’ war room for the Mac Jones draft pick - Pats Pulpit",
+                "description": "New England picked Jones in the first round on Thursday.",
+                "url": "https://www.patspulpit.com/new-england-patriots-social-media-video-podcasts/2021/4/30/22411832/nfl-draft-2021-video-look-inside-patriots-war-room-mac-jones",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/LEkuhtr85_tCT_CJonez0VcbEwI=/22x0:2035x1054/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22481006/Bildschirmfoto_2021_04_30_um_15.29.07.png",
+                "publishedAt": "2021-04-30T13:38:18Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "'I feel bad for Justin Fields' - David Pollack on the Bears' pick | Get Up - ESPN",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MjltdWJEd2FaMFHSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T13:30:56Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Cincy Jungle"
+                },
+                "author": "Anthony Cosenza",
+                "title": "Reactions to Bengals’ drafting of LSU WR Ja’Marr Chase at No. 5 overall - Cincy Jungle",
+                "description": "Cincy Jungle’s Bengals podcast team of Anthony Cosenza, John Sheeran, Matt Minich and Zim WhoDey teamed up to talk about the Bengals’ first-round selection of Ja’Marr Chase.",
+                "url": "https://www.cincyjungle.com/2021/4/30/22411450/reactions-to-bengals-drafting-of-lsu-wr-jamarr-chase-at-no-5-overall",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/omtElb2fChrxuHKUIh0zd4RqDaA=/0x652:3413x2439/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480590/usa_today_15987250.jpg",
+                "publishedAt": "2021-04-30T13:30:00Z",
+                "content": "Cincy Jungles Bengals podcast team of Anthony Cosenza, John Sheeran, Matt Minich and Zim WhoDey teamed up to talk about the Bengals first-round selection of JaMarr Chase."
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "The winners and losers from the first round of the 2021 NFL Draft | KJZ - ESPN",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9TjBjZFNNbzZoMFnSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T12:46:14Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "the-wall-street-journal",
+                    "name": "The Wall Street Journal"
+                },
+                "author": "Andrew Beaton",
+                "title": "Aaron Rodgers Demanded a Trade from the Packers and Stole the NFL Draft - The Wall Street Journal",
+                "description": "The quarterback’s desire to leave town overshadowed the draft and left Green Bay in a lurch",
+                "url": "https://www.wsj.com/articles/aaron-rodgers-trade-rumors-broncos-49ers-11619786188",
+                "urlToImage": "https://images.wsj.net/im-332247/social",
+                "publishedAt": "2021-04-30T12:43:00Z",
+                "content": "One year ago the Green Bay Packers stunned the football world when they traded up to take a quarterback in the first round of the draft. They still employed Aaron Rodgers. And he wasnt happy about it… [+776 chars]"
+            },
+            {
+                "source": {
+                    "id": "usa-today",
+                    "name": "USA Today"
+                },
+                "author": "Nate Davis",
+                "title": "NFL second-round mock draft: Buccaneers find possible Tom Brady successor at QB - USA TODAY",
+                "description": "Our forecast for the second round of the NFL draft includes some intriguing names at running back and wide receiver, along with one QB to watch.",
+                "url": "https://www.usatoday.com/story/sports/nfl/columnist/nate-davis/2021/04/30/nfl-second-round-mock-draft-bucs-flier-qb-davis-mills/7390607002/",
+                "urlToImage": "https://www.gannett-cdn.com/presto/2021/04/10/USAT/39a441ec-6403-4dcb-81f2-a0b0b8c38f0f-GTY_1166698646.jpg?crop=3719,2092,x1,y80&width=3200&height=1680&fit=bounds",
+                "publishedAt": "2021-04-30T12:05:20Z",
+                "content": "Sports Seriously: Prior to the NFL Draft, Trey Lance joined Sports Seriously to share his thoughts on 49ers head coach (and now his head coach) Kyle Shanahan and if he thinks he's ready to start his … [+8903 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Giannis leaves with ankle injury, KD drops 42 and the Zion-Ingram duo combines for 51 | SportsNation - ESPN",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9Qk5UUkcxMndYLXPSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T11:49:13Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Prideofdetroit.com"
+                },
+                "author": "Jeremy Reisman",
+                "title": "2021 NFL Draft grades: Detroit Lions get near-unanimous A’s for Penei Sewell pick - prideofdetroit.com",
+                "description": "The national audience overwhelmingly love the Lions’ selection.",
+                "url": "https://www.prideofdetroit.com/2021/4/30/22411629/2021-nfl-draft-grades-detroit-lions-penei-sewell-a-experts",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/yubhr_XlFZjjY_GE9zd4eUnmix0=/0x43:3364x1804/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480809/1315294562.jpg",
+                "publishedAt": "2021-04-30T11:45:00Z",
+                "content": "The Detroit Lions passed on a quarterback or skill position player to build through the trenches and nearly finish their offensive line build. Penei Sewell was a player with enough talent and positio… [+3685 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "1075thefan.com"
+                },
+                "author": "https://www.facebook.com/KBowen1070/",
+                "title": "Why Did The Colts Turn Down Trade Offer To Select Kwity Paye? - WFNI | ESPN 107.5 / 1070 The Fan | Indy's Sports Center",
+                "description": "INDIANAPOLIS – As much as Chris Ballard loves those picks, the allure of drafting Kwity Paye was too good to pass up on Thursday night. The Colts had a trade offer on the table as the clock",
+                "url": "https://www.1075thefan.com/kevins-sports-news/colts/why-did-the-colts-turn-down-trade-offer-to-select-kwity-paye/",
+                "urlToImage": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/1312/2021/04/30002426/GettyImages-1068995416.jpg",
+                "publishedAt": "2021-04-30T11:40:06Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Behind the Steel Curtain"
+                },
+                "author": "Ryland B., Andrew Wilbar (steelerfan11), SNW",
+                "title": "2021 NFL Draft: Steelers Big Board, Top 50 heading into Day 2 - Behind the Steel Curtain",
+                "description": "Looking at the best of the rest heading into the second day of the 2021 NFL Draft.",
+                "url": "https://www.behindthesteelcurtain.com/2021/4/30/22410053/2021-nfl-draft-steelers-big-board-top-50-heading-into-day-2-best-of-whats-left-news-update-rumors",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/dpwQqUokWseXNUA9lUY5h1P14Ck=/0x8:4333x2277/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480445/usa_today_15978372.jpg",
+                "publishedAt": "2021-04-30T11:30:00Z",
+                "content": "The first round of the 2021 NFL Draft is over, with the Steelers selecting Najee Harris out of Alabama with the 24th pick overall. \r\nHeres my Big Board breakdown of Harris:\r\n24. Najee Harris RB Alaba… [+49875 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "The Ringer"
+                },
+                "author": "Jack McCluskey",
+                "title": "Round 1 NFL Draft Reaction: Did the Jets and Giants Both Get It Right? - The Ringer",
+                "description": "Did the Jets and Giants both actually make smart decisions in the first round of the NFL draft? JJ explains why Giants GM Dave Gettleman deserves praise and why the start of a new era for the Jets is off to a great start.",
+                "url": "https://www.theringer.com/2021/4/30/22411645/round-1-nfl-draft-reaction-did-the-jets-giants-both-get-it-right",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/at3rLMjNcDZfigzPU15HNcRTTFI=/0x269:3750x2232/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480802/1315285495.jpg",
+                "publishedAt": "2021-04-30T11:12:27Z",
+                "content": "Did the Jets and Giants both actually make smart decisions in the first round of the NFL draft? JJ explains why Giants GM Dave Gettleman deserves praise and why the start of a new era for the Jets is… [+1187 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "nj.com"
+                },
+                "author": "Steve Politi | NJ Advance Media for NJ.com",
+                "title": "NFL Draft 2021: Dave Gettleman put the Giants’ long-term future ahead of his own | Politi - NJ.com",
+                "description": "New York Giants general manager Dave Gettleman traded back against his own short-term self interests.",
+                "url": "https://www.nj.com/giants/2021/04/nfl-draft-dave-gettleman-put-the-giants-long-term-future-ahead-of-his-own-politi.html",
+                "urlToImage": "https://www.nj.com/resizer/qUqt6kahmaAlI3oUwO_yGpzxnjc=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Q4V5CRSRSZGATDSG7IQB2P5UMU.jpg",
+                "publishedAt": "2021-04-30T11:02:31Z",
+                "content": "In hindsight, of course, it looked easy.\r\nThe Giants were on the clock with the No. 11 overall pick in the NFL Draft, and the players they had coveted already had marched across the stage in Clevelan… [+4407 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "AL.com"
+                },
+                "author": "Mark Heim | mheim@al.com",
+                "title": "Tua Tagovailoa reacts to Dolphins drafting Jaylen Waddle; Jalen Hurts excited Eagles take DeVonta Smith - AL.com",
+                "description": "A couple of former Alabama quarterbacks were pumped Thursday after their teams drafted Crimson Tide receivers.",
+                "url": "https://www.al.com/alabamafootball/2021/04/tua-tagovailoa-reacts-to-dolphins-drafting-jaylen-waddle-jalen-hurts-excited-eagles-take-devonta-smith.html",
+                "urlToImage": "https://www.al.com/resizer/RC2PhgcAFHYWetMqNHgeke9cwB8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/MMX4STSNCJHOZEGHGJXRJJJ7HU.jpg",
+                "publishedAt": "2021-04-30T10:58:19Z",
+                "content": "The first round of the 2021 NFL Draft on Thursday was all about the SEC.\r\nAnd, of course, the crop of Alabama Crimson Tide players were particularly popular selections. \r\nOf the six SEC players chose… [+1782 chars]"
+            }
+        ]
+    },
+
+    {
+        "name": "technology",
+        "status": "ok",
+        "totalResults": 70,
+        "articles": [
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Nintendo Switch My Way - Animal Crossing: New Horizons - Nintendo",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9MkM1STNmZVR6S2_SAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T16:00:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Nintendo Monthly Rewind – April 2021 - Nintendo",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9dThEd1dPRWNCYmfSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T15:00:25Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "14 Exciting New Games Coming to Nintendo Switch - May 2021 - Nintendo Life",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9QU9xenlTdzNjTEHSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T15:00:04Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Taylor Lyles",
+                "title": "You can save up to $147 on a preorder for the latest M1 iPad Pro or iMac - The Verge",
+                "description": "Apple’s latest models for the iMac and iPad Pros are now available for preorder. But if you want to save some money on a pre-purchase, Expercom has a discount on all three products with up to $147 in savings available.",
+                "url": "https://www.theverge.com/good-deals/2021/4/30/22411755/apple-imac-ipad-pro-m1-preorder-discount-amazon-echo-show-5-deal",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/NrtUmauwKKF-zIvMv6MfCxPPThk=/0x40:2000x1087/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22457505/lcimg_06ebca85_7eac_4c32_9e8f_4b98fad99ec8.jpeg",
+                "publishedAt": "2021-04-30T14:11:24Z",
+                "content": "Plus, Amazons Echo Show 8 is back on sale again for $105\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe latest iPad Pros are powered by the M… [+2887 chars]"
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Returnal is a Showcase for the PS5's Power - Next-Gen Console Watch - IGN",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9c09Pc085djFzbzDSAQA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T13:00:33Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": "google-news",
+                    "name": "Google News"
+                },
+                "author": null,
+                "title": "Amazon's AI Guru Is So Totally Over the Turing Test - WIRED",
+                "description": null,
+                "url": "https://news.google.com/__i/rss/rd/articles/CBMiSmh0dHBzOi8vd3d3LndpcmVkLmNvbS9zdG9yeS9wbGFpbnRleHQtYW1hem9uLWFpLWd1cnUtb3Zlci10aGUtdHVyaW5nLXRlc3Qv0gEA?oc=5",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T13:00:00Z",
+                "content": null
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Kotaku"
+                },
+                "author": "Brian Ashcraft",
+                "title": "Resident Evil Village Makes For A Delightfully Demented Puppet Show - Kotaku",
+                "description": "Resident Evil Village the video game? Seems scary! But the puppet show? Absolutely adorable and totally messed up.",
+                "url": "https://kotaku.com/resident-evil-village-makes-for-a-delightfully-demented-1846795680",
+                "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/155f7355a765469a84045233767c2428.jpg",
+                "publishedAt": "2021-04-30T12:03:58Z",
+                "content": "Kotaku EastEast is your slice of Asian internet culture, bringing you the latest talking points from Japan, Korea, China and beyond. Tune in every morning from 4am to 8am.\r\nResident Evil Village the … [+676 chars]"
+            },
+            {
+                "source": {
+                    "id": "engadget",
+                    "name": "Engadget"
+                },
+                "author": "https://www.engadget.com/about/editors/steve-dent",
+                "title": "Star Wars Instant Pots hit all-time low prices ahead of May the 4th - Engadget",
+                "description": "Williams Sonoma's Star Wars-branded Instant Pots have gone on sale on Amazon at some of the steepest discounts we've seen..",
+                "url": "https://www.engadget.com/star-wars-instant-pots-hit-an-all-time-low-just-ahead-of-may-the-4th-104526815.html",
+                "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2021-04/37c958b0-a98c-11eb-b376-31e7cb49fdc1",
+                "publishedAt": "2021-04-30T12:03:17Z",
+                "content": "May the 4th is approaching fast, so you know what that means deals on Star Wars-themed merchandise. Right on time, a couple of Williams Sonoma's Star Wars-branded Instant Pots have gone on sale at Am… [+1280 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Dan Ackerman",
+                "title": "Atari VCS hands-on: A computer-console hybrid with an identity crisis - CNET",
+                "description": "The long-awaited Atari VCS doesn't know if it wants to be a game console, a PC or something in between.",
+                "url": "https://www.cnet.com/news/atari-vcs-hands-on-a-computer-console-hybrid-with-an-identity-crisis/",
+                "urlToImage": "https://www.cnet.com/a/img/EjuWa0I3jeSKUjacIqBuB3W9-l4=/1200x630/2021/04/29/aa625048-a66b-42aa-9f5d-68cdcdd23844/img-3467.jpg",
+                "publishedAt": "2021-04-30T12:00:21Z",
+                "content": "Dan Ackerman/CNET\r\nLike the storied brand it takes its name from, the new Atari VCS has a complicated history. Originally a crowd-funded project, now years overdue, it's finally starting to ship to c… [+6865 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "9to5Mac"
+                },
+                "author": null,
+                "title": "Apple reveals more about AirTag stalking protections as domestic abuse concerns expressed - 9to5Mac",
+                "description": "Apple was careful to address AirTag stalking concerns when it announced the new tracking tags, but was a little vague on the details of ...",
+                "url": "https://9to5mac.com/2021/04/30/airtag-stalking-protections/",
+                "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2021/04/AirTag-stalking-protections.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+                "publishedAt": "2021-04-30T11:07:00Z",
+                "content": "Apple was careful to address AirTag stalking concerns when it announced the new tracking tags, but was a little vague on the details of the privacy protections built into the system. It has now revea… [+3474 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-washington-post",
+                    "name": "The Washington Post"
+                },
+                "author": "Reed Albergotti",
+                "title": "Apple is going to court with Fortnite, and it could forever change how apps work - The Washington Post",
+                "description": "Epic, the maker of the popular video game Fortnite, is set to take Apple to trial Monday. Apple’s App Store hangs in the balance..",
+                "url": "https://www.washingtonpost.com/technology/2021/04/30/epic-apple-trial-antitrust-fortnite-app-store/",
+                "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/12-16-2020/t_9fd8f3764ae04fd3966539c52815b00f_name_app_store_logo.png&w=1440",
+                "publishedAt": "2021-04-30T11:00:00Z",
+                "content": "Up for debate is how Apple allows apps to function on iPhones. The only way to install software on Apples mobile operating system, called iOS, is through the companys App Store. Developers who make s… [+11349 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "CNET"
+                },
+                "author": "Joshua Goldman",
+                "title": "Intel, Samsung and the move to purposeful computing - CNET",
+                "description": "The pandemic helped reshape how Intel thinks about PCs. Samsung's latest Galaxy Books are part of the evolution.",
+                "url": "https://www.cnet.com/news/intel-samsung-and-the-move-to-purposeful-computing/",
+                "urlToImage": "https://www.cnet.com/a/img/Sc06pzaC2DIe2ngOwfMAQwYnojs=/1200x630/2021/04/28/9217b652-97d6-418e-978e-7aa35f6fb46e/080-samsung-unpacked-april-2021-samsung-galaxy-book.png",
+                "publishedAt": "2021-04-30T11:00:00Z",
+                "content": "Samsung's Galaxy Book Pro was co-engineered with Intel to deliver a new, unified Galaxy experience.\r\nThe pandemic created a huge shift in how -- and where -- a lot of people work and learn. It also a… [+3880 chars]"
+            },
+            {
+                "source": {
+                    "id": "bloomberg",
+                    "name": "Bloomberg"
+                },
+                "author": null,
+                "title": "Cyberpunk Managers Still Win Big Bonuses After Shoddy Game Launch - Bloomberg",
+                "description": null,
+                "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=687a8970-a9c3-11eb-bf03-a18933b1f355&url=L25ld3MvbmV3c2xldHRlcnMvMjAyMS0wNC0zMC9jeWJlcnB1bmstbWFuYWdlcnMtc3RpbGwtd2luLWJpZy1ib251c2VzLWFmdGVyLXNob2RkeS1nYW1lLWxhdW5jaA==",
+                "urlToImage": null,
+                "publishedAt": "2021-04-30T10:45:10Z",
+                "content": "To continue, please click the box below to let us know you're not a robot."
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Attack of the Fanboy"
+                },
+                "author": "Damian Seeto",
+                "title": "Outriders Update 1.07 Patch Notes - Attack of the Fanboy",
+                "description": "Update 1.07 has arrived for Outriders, and here’s the full list of changes and fixes added with this patch.",
+                "url": "https://attackofthefanboy.com/guides/outriders-update-1-07-patch-notes/",
+                "urlToImage": "https://attackofthefanboy.com/wp-content/uploads/2021/04/Outriders-6.jpg",
+                "publishedAt": "2021-04-30T10:44:30Z",
+                "content": "Update 1.07 has arrived for Outriders, and heres the full list of changes and fixes added with this patch.Developer People Can Fly says that this is the biggest update released for Outriders yet. Thi… [+13188 chars]"
+            },
+            {
+                "source": {
+                    "id": "the-verge",
+                    "name": "The Verge"
+                },
+                "author": "Jon Porter",
+                "title": "Google is cracking down on scammy Play Store app listings - The Verge",
+                "description": "Google has announced new Play Store policies and guidelines designed to make app listings more accurate and less of an eye-sore. There are new guidelines about preview assets, and new policies on app metadata.",
+                "url": "https://www.theverge.com/2021/4/30/22411560/google-play-store-listings-scammy-emoji-deals-misleading-assets-guidelines-policy",
+                "urlToImage": "https://cdn.vox-cdn.com/thumbor/hagCrpSHXX2A4uytTs6M5MxisNM=/0x58:801x477/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22480741/BadExample_Emoticons.png",
+                "publishedAt": "2021-04-30T10:44:08Z",
+                "content": "New policies against long or irrelevant app titles and icons are on the way\r\nAn example of the kind of listing that will be prohibited under the new policy.\r\nImage: Google\r\nGoogle has announced new P… [+1838 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "New York Times"
+                },
+                "author": "Ben Frumin",
+                "title": "Why We Love the UE Wonderboom 2 Bluetooth Speaker - The New York Times",
+                "description": "The Wonderboom 2 makes it easy to fill any space with great-sounding music and podcasts.",
+                "url": "https://www.nytimes.com/wirecutter/reviews/ue-wonderboom-speaker-review/",
+                "urlToImage": "https://cdn.thewirecutter.com/wp-content/media/2021/04/UEwonderboom-52things-fullres-2625-3x2-1.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
+                "publishedAt": "2021-04-30T10:11:15Z",
+                "content": "The UE Wonderboom 2 Bluetooth speaker has quickly become one of my familys most-used gadgets. It has enabled me to chill to Miles Davis as we roast marshmallows around the firepit in our backyard. It… [+2547 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Video Games Chronicle"
+                },
+                "author": "Tom Ivan",
+                "title": "Crash 4 studio Toys for Bob is officially supporting Warzone development amid layoff claims - Video Games Chronicle",
+                "description": "Former contract designer claims everyone they worked alongside at the studio “was let go”…",
+                "url": "https://www.videogameschronicle.com/news/crash-4-studio-toys-for-bob-is-officially-supporting-warzone-development-amid-layoff-claims/",
+                "urlToImage": "https://www.videogameschronicle.com/files/2021/04/05.-Array_Squelch-scaled.jpg",
+                "publishedAt": "2021-04-30T09:49:22Z",
+                "content": "Toys for Bob has announced it is supporting Call of Duty: Warzone development, amid claims of layoffs at the Activision-owned studio.\r\nThe Novato, California-based developer, which made 2018s Spyro R… [+2762 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Video Games Chronicle"
+                },
+                "author": "Chris Scullion",
+                "title": "Doom Eternal has added paid skins, despite previous assurances it wouldn’t - Video Games Chronicle",
+                "description": "A lead dev told players before launch that the game would have no microtransactions…",
+                "url": "https://www.videogameschronicle.com/news/doom-eternal-has-added-paid-skins-despite-previous-assurances-it-wouldnt/",
+                "urlToImage": "https://www.videogameschronicle.com/files/2021/04/doom-dlc.jpg",
+                "publishedAt": "2021-04-30T09:10:56Z",
+                "content": "A pair of paid skin packs has been released for Doom Eternal, despite pre-launch assurances that the game wouldn’t include microtransactions.\r\nThe two packs were released yesterday on the Steam, Xbox… [+1793 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "Motor1 "
+                },
+                "author": "Adrian Padeanu",
+                "title": "2022 BMW 2 Series Coupe Spied With Exposed Side Looks Very Purple - Motor1 ",
+                "description": "An interesting spy shot of the next-generation BMW 2 Series has surfaced on social media, revealing the purple silhouette of the new rear-wheel-drive coupe.",
+                "url": "https://www.motor1.com/news/504502/2022-bmw-2-series-less-camo/",
+                "urlToImage": "https://cdn.motor1.com/images/mgl/OkARl/s1/2022-bmw-2-series-coupe-spy-photo.jpg",
+                "publishedAt": "2021-04-30T07:41:00Z",
+                "content": "We've seen our fair share of spy shots depicting the next-generation BMW 2 Series, but not as revealing as this photo. Its origins are shrouded in mystery as the image does not come from our usual su… [+2253 chars]"
+            },
+            {
+                "source": {
+                    "id": null,
+                    "name": "MacRumors"
+                },
+                "author": "Sami Fathi",
+                "title": "Windows 10 Gaining Improved Audio Support for AirPods in Future Update - MacRumors",
+                "description": "The next major update for Windows 10 later this year will include improved support for Apple's line of AirPods and other Bluetooth headphones and...",
+                "url": "https://www.macrumors.com/2021/04/30/windows-10-update-improved-airpods-support/",
+                "urlToImage": "https://images.macrumors.com/t/YZVOm9exvj8sPhot8NOAHsmxPJU=/1600x/https://images.macrumors.com/article-new/2020/11/windows-10.jpg",
+                "publishedAt": "2021-04-30T07:35:59Z",
+                "content": "The next major update for Windows 10 later this year will include improved support for Apple's line of AirPods and other Bluetooth headphones and earbud speakers.\r\nIn a blog post, Microsoft says it i… [+1266 chars]"
+            }
+        ]
+    }
+  ]
+}
